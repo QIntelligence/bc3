@@ -20,7 +20,9 @@ for line in corpus:
         try:
             sentence = re.findall(r'>(.*?)<', line)[0]
         except:
-            sentence = line.split('>')[0]
+            sentence = line.split('>')[1]
+        
+        #print sentence 
         threads[current_listno]['sentences'][str(tag)] = {}
         threads[current_listno]['sentences'][str(tag)]['text'] = sentence
         threads[current_listno]['sentences'][str(tag)]['is_summary_sentence'] = False 

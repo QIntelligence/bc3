@@ -13,7 +13,7 @@ p8
 I00
 sS'text'
 p9
-S'<Sent id="1.4"'
+S'It can be found at: http://www.w3.org/WAI/GL/new-charter-2000.html'
 p10
 ssS'1.5'
 p11
@@ -29,7 +29,7 @@ p14
 g8
 I01
 sg9
-S'<Sent id="1.6"'
+S'If you have to choose between turkey and talking, I will understand if you opt for the food.'
 p16
 ssS'1.7'
 p17
@@ -37,7 +37,7 @@ p17
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'Regards,'
 p19
 ssS'1.1'
 p20
@@ -69,7 +69,7 @@ p29
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'Chuck Letourneau'
 p31
 ssS'1.9'
 p32
@@ -85,7 +85,7 @@ p35
 g8
 I00
 sg9
-S'<Sent id="6.7"'
+S"&gt;&gt; in addition to including the phone number and time of the call in meeting announcements, could you please email the reminders the day _BEFORE_ the meeting, as it does me little good if i receive a reminder for a meeting shortly before the meeting begins, especially if that is a day where i could spare an hour or so for a telecon, but don't want to get sucked into answering all of my accumulated email!"
 p37
 ssS'6.6'
 p38
@@ -93,7 +93,7 @@ p38
 g8
 I00
 sg9
-S'<Sent id="6.6"'
+S'&gt;&gt; aloha!'
 p40
 ssS'2.9'
 p41
@@ -101,7 +101,7 @@ p41
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'&gt; It can be found at: http://www.w3.org/WAI/GL/new-charter-2000.html'
 p43
 ssS'2.8'
 p44
@@ -117,7 +117,7 @@ p47
 g8
 I01
 sg9
-S'<Sent id="3.2"'
+S'I have great difficulty in being available due to teaching duties.'
 p49
 ssS'3.3'
 p50
@@ -125,7 +125,7 @@ p50
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'--'
 p52
 ssS'6.1'
 p53
@@ -141,7 +141,7 @@ p56
 g8
 I01
 sg9
-S'<Sent id="3.1"'
+S'could you please be sure to always include the telephone number and times in these communications please.'
 p58
 ssS'2.3'
 p59
@@ -165,7 +165,7 @@ p65
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'at least i can type with my mouth full !!!'
 p67
 ssS'2.7'
 p68
@@ -189,7 +189,7 @@ p74
 g8
 I01
 sg9
-S'<Sent id="2.5"'
+S'Comments?'
 p76
 ssS'2.4'
 p77
@@ -197,7 +197,7 @@ p77
 g8
 I00
 sg9
-S'<Sent id="2.4"'
+S'We are also making more of these for other products and one is in development now.'
 p79
 ssS'4.5'
 p80
@@ -205,7 +205,7 @@ p80
 g8
 I00
 sg9
-S'<Sent id="4.5"'
+S'He that lives on Hope, dies farting'
 p82
 ssS'4.4'
 p83
@@ -213,7 +213,7 @@ p83
 g8
 I00
 sg9
-S'<Sent id="4.4"'
+S'--------------------------------------------------------'
 p85
 ssS'4.7'
 p86
@@ -221,7 +221,7 @@ p86
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'--------------------------------------------------------'
 p88
 ssS'4.6'
 p89
@@ -229,7 +229,7 @@ p89
 g8
 I00
 sg9
-S'<Sent id="4.6"'
+S"-- Benjamin Franklin, Poor Richard's Almanack, 1763"
 p91
 ssS'4.1'
 p92
@@ -237,7 +237,7 @@ p92
 g8
 I00
 sg9
-S'<Sent id="4.1"'
+S'aloha!'
 p94
 ssS'5.5'
 p95
@@ -245,7 +245,7 @@ p95
 g8
 I00
 sg9
-S'<Sent id="5.5"'
+S'--'
 p97
 ssS'4.3'
 p98
@@ -253,7 +253,7 @@ p98
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'gregory'
 p100
 ssS'4.2'
 p101
@@ -261,7 +261,7 @@ p101
 g8
 I01
 sg9
-S'<Sent id="4.2"'
+S"in addition to including the phone number and time of the call in meeting announcements, could you please email the reminders the day _BEFORE_ the meeting, as it does me little good if i receive a reminder for a meeting shortly before the meeting begins, especially if that is a day where i could spare an hour or so for a telecon, but don't want to get sucked into answering all of my accumulated email!"
 p103
 ssS'4.9'
 p104
@@ -269,7 +269,7 @@ p104
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'WebMaster and Minister of Propaganda, VICUG NYC'
 p106
 ssS'4.8'
 p107
@@ -277,7 +277,7 @@ p107
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'Gregory J. Rosmaita &amp;lt;unagi69@concentric.net&amp;gt;'
 p109
 ssS'6.5'
 p110
@@ -285,7 +285,7 @@ p110
 g8
 I00
 sg9
-S'<Sent id="6.5"'
+S'UAAG'
 p112
 ssS'6.9'
 p113
@@ -293,7 +293,7 @@ p113
 g8
 I00
 sg9
-S'<Sent id="6.9"'
+S'&gt; seconded'
 p115
 ssS'6.8'
 p116
@@ -301,7 +301,7 @@ p116
 g8
 I00
 sg9
-S'<Sent id="6.8"'
+S'&gt;&gt; gregory'
 p118
 ssS'4.11'
 p119
@@ -325,7 +325,7 @@ p125
 g8
 I00
 sg9
-S'<Sent id="2.13"'
+S'&gt; Chuck Letourneau'
 p127
 ssS'2.12'
 p128
@@ -333,7 +333,7 @@ p128
 g8
 I00
 sg9
-S'<Sent id="2.12"'
+S'&gt; Regards,'
 p130
 ssS'2.11'
 p131
@@ -341,7 +341,7 @@ p131
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S'&gt; If you have to choose between turkey and talking, I will understand if you opt for the food.'
 p133
 ssS'2.10'
 p134
@@ -357,7 +357,7 @@ p137
 g8
 I00
 sg9
-S'<Sent id="5.1"'
+S'&gt; aloha!'
 p139
 ssS'6.11'
 p140
@@ -373,7 +373,7 @@ p143
 g8
 I00
 sg9
-S'<Sent id="6.10"'
+S'&gt; --'
 p145
 ssS'5.2'
 p146
@@ -381,7 +381,7 @@ p146
 g8
 I00
 sg9
-S'<Sent id="5.2"'
+S"&gt; in addition to including the phone number and time of the call in meeting announcements, could you please email the reminders the day _BEFORE_ the meeting, as it does me little good if i receive a reminder for a meeting shortly before the meeting begins, especially if that is a day where i could spare an hour or so for a telecon, but don't want to get sucked into answering all of my accumulated email!"
 p148
 ssS'5.3'
 p149
@@ -389,7 +389,7 @@ p149
 g8
 I00
 sg9
-S'<Sent id="5.3"'
+S'&gt; gregory'
 p151
 ssS'4.10'
 p152
@@ -397,7 +397,7 @@ p152
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'&amp;lt;http://www.hicom.net/~oedipus/vicug/index.html&amp;gt;'
 p154
 ssS'5.4'
 p155
@@ -405,7 +405,7 @@ p155
 g8
 I01
 sg9
-S'<Sent id="5.4"'
+S'seconded'
 p157
 ssS'7.1'
 p158
@@ -413,7 +413,7 @@ p158
 g8
 I01
 sg9
-S'<Sent id="7.1"'
+S'tx'
 p160
 ssS'7.2'
 p161
@@ -445,7 +445,7 @@ p170
 g8
 I00
 sg9
-S'<Sent id="6.4"'
+S'Chair'
 p172
 ssS'6.3'
 p173
@@ -453,7 +453,7 @@ p173
 g8
 I00
 sg9
-S'<Sent id="6.3"'
+S'Jon Gunderson'
 p175
 ssS'6.2'
 p176
@@ -461,7 +461,7 @@ p176
 g8
 I01
 sg9
-S'<Sent id="6.2"'
+S'I have tried to adhere to this policy in the UA working group and I think it has help keep people interested in the participating in the telecons.'
 p178
 ssssS'080-5970135'
 p179
@@ -482,7 +482,7 @@ p185
 g8
 I00
 sg9
-S'<Sent id="8.6"'
+S'cheers'
 p187
 ssS'1.1'
 p188
@@ -490,7 +490,7 @@ p188
 g8
 I01
 sg9
-S'<Sent id="1.1"'
+S'BlankIt a appears another interesting case goes to court today where a wheel chair user is seeking compensation from London Stanstead Airport and Ryan Air for charging ?18.00 for the use of a wheelchair and lift to get onto the plane.'
 p190
 ssS'1.2'
 p191
@@ -498,7 +498,7 @@ p191
 g8
 I00
 sg9
-S'<Sent id="1.2"'
+S'I realise it is the Airlines that take the flak for this, but I believe it is the Airport authority that makes the charge??'
 p193
 ssS'1.3'
 p194
@@ -506,7 +506,7 @@ p194
 g8
 I01
 sg9
-S'<Sent id="1.3"'
+S'I think he has an open and shut case, but the outcome will be interesting, and I believe the airline and airport are only contesting the case as this sets a precedent to supply a reasonable service for all disabled travellers, world wide.'
 p196
 ssS'3.10'
 p197
@@ -514,7 +514,7 @@ p197
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'Charles McCathieNevile Fundaci?n Sidar'
 p199
 ssS'3.11'
 p200
@@ -530,7 +530,7 @@ p203
 g8
 I00
 sg9
-S'<Sent id="9.14"'
+S'THIS message and any attachments are CONFIDENTIAL and may be'
 p205
 ssS'7.5'
 p206
@@ -546,7 +546,7 @@ p209
 g8
 I00
 sg9
-S'<Sent id="9.12"'
+S'NO attachments in e-mail, *LINUX powered* access is a civil right'
 p211
 ssS'9.13'
 p212
@@ -554,7 +554,7 @@ p212
 g8
 I00
 sg9
-S'<Sent id="9.13"'
+S'*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#'
 p214
 ssS'9.10'
 p215
@@ -562,7 +562,7 @@ p215
 g8
 I00
 sg9
-S'<Sent id="9.10"'
+S'NO HTML/PDF/RTF in e-mail accessys@smartnospam.net'
 p217
 ssS'9.11'
 p218
@@ -570,7 +570,7 @@ p218
 g8
 I00
 sg9
-S'<Sent id="9.11"'
+S'NO MSWord docs in e-mail Access Systems, engineers'
 p220
 ssS'3.6'
 p221
@@ -578,7 +578,7 @@ p221
 g8
 I00
 sg9
-S'<Sent id="3.6"'
+S'&gt; I realise it is the Airlines that take the flak for this, but I believe it is the Airport authority that makes the charge??'
 p223
 ssS'3.7'
 p224
@@ -586,7 +586,7 @@ p224
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'&gt; I think he has an open and shut case, but the outcome will be interesting, and I believe the airline and airport are only contesting the case as this sets a precedent to supply a reasonable service for all disabled travellers, world wide.'
 p226
 ssS'3.4'
 p227
@@ -594,7 +594,7 @@ p227
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'Chaals'
 p229
 ssS'3.5'
 p230
@@ -602,7 +602,7 @@ p230
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'&gt; BlankIt a appears another interesting case goes to court today where a wheel chair user is seeking compensation from London Stanstead Airport and Ryan Air for charging ?18.00 for the use of a wheelchair and lift to get onto the plane.'
 p232
 ssS'3.2'
 p233
@@ -610,7 +610,7 @@ p233
 g8
 I01
 sg9
-S'<Sent id="3.2"'
+S'What is the relevance to Web Accessibility?'
 p235
 ssS'3.3'
 p236
@@ -618,7 +618,7 @@ p236
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'Cheers'
 p238
 ssS'6.1'
 p239
@@ -642,7 +642,7 @@ p245
 g8
 I00
 sg9
-S'<Sent id="2.3"'
+S'&gt; I realise it is the Airlines that take the flak for this, but I believe it is the Airport authority that makes the charge??'
 p247
 ssS'2.2'
 p248
@@ -650,7 +650,7 @@ p248
 g8
 I01
 sg9
-S'<Sent id="2.2"'
+S"When I worked for a tourism dot-com some years ago we weren't shy about suggesting that customers sue over this (it wasn't our company policy to do so, but individually we were outraged and didn't hide it)."
 p250
 ssS'2.1'
 p251
@@ -658,7 +658,7 @@ p251
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'&gt; BlankIt a appears another interesting case goes to court today where a wheel chair user is seeking compensation from London Stanstead Airport and Ryan Air for charging ?18.00 for the use of a wheelchair and lift to get onto the plane.'
 p253
 ssS'2.7'
 p254
@@ -666,7 +666,7 @@ p254
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'Jon Hanna | Toys and books'
 p256
 ssS'2.6'
 p257
@@ -674,7 +674,7 @@ p257
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'--'
 p259
 ssS'3.8'
 p260
@@ -682,7 +682,7 @@ p260
 g8
 I00
 sg9
-S'<Sent id="3.8"'
+S'&gt; Shame on them'
 p262
 ssS'3.9'
 p263
@@ -690,7 +690,7 @@ p263
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'--'
 p265
 ssS'8.1'
 p266
@@ -698,7 +698,7 @@ p266
 g8
 I01
 sg9
-S'<Sent id="8.1"'
+S'Naturally you are forgiven :-)'
 p268
 ssS'5.1'
 p269
@@ -714,7 +714,7 @@ p272
 g8
 I01
 sg9
-S'<Sent id="5.2"'
+S'Take it up off-list.'
 p274
 ssS'5.3'
 p275
@@ -722,7 +722,7 @@ p275
 g8
 I00
 sg9
-S'<Sent id="5.3"'
+S'J.'
 p277
 ssS'4.1'
 p278
@@ -730,7 +730,7 @@ p278
 g8
 I00
 sg9
-S'<Sent id="4.1"'
+S"&gt; They charge the airlines for the use of the wheelchair lifts, I don't think any other airline passes the charge on the customer, whereas Ryan Air pass *everything*"
 p280
 ssS'5.5'
 p281
@@ -738,7 +738,7 @@ p281
 g8
 I00
 sg9
-S'<Sent id="5.5"'
+S'&gt; Monarch also charge I believe.'
 p283
 ssS'5.6'
 p284
@@ -778,7 +778,7 @@ p296
 g8
 I01
 sg9
-S'<Sent id="8.5"'
+S'Fora for general discussion of accessibility law are available...'
 p298
 ssS'8.13'
 p299
@@ -786,7 +786,7 @@ p299
 g8
 I00
 sg9
-S'<Sent id="8.13"'
+S'--'
 p301
 ssS'8.10'
 p302
@@ -794,7 +794,7 @@ p302
 g8
 I00
 sg9
-S'<Sent id="8.10"'
+S'&gt; err..please?'
 p304
 ssS'9.8'
 p305
@@ -802,7 +802,7 @@ p305
 g8
 I00
 sg9
-S'<Sent id="9.8"'
+S'- - - - - - - - - - - - - - - - - - -'
 p307
 ssS'2.5'
 p308
@@ -810,7 +810,7 @@ p308
 g8
 I01
 sg9
-S'<Sent id="2.5"'
+S"They charge the airlines for the use of the wheelchair lifts, I don't think any other airline passes the charge on the customer, whereas Ryan Air pass *everything* onto the customer."
 p310
 ssS'8.15'
 p311
@@ -826,7 +826,7 @@ p314
 g8
 I01
 sg9
-S'<Sent id="9.4"'
+S'in the USA it is expressly forbidden to pass the cost to the consumer.'
 p316
 ssS'9.5'
 p317
@@ -834,7 +834,7 @@ p317
 g8
 I00
 sg9
-S'<Sent id="9.5"'
+S'Bob'
 p319
 ssS'7.4'
 p320
@@ -842,7 +842,7 @@ p320
 g8
 I00
 sg9
-S'<Sent id="7.4"'
+S'earnest smiles'
 p322
 ssS'2.4'
 p323
@@ -858,7 +858,7 @@ p326
 g8
 I00
 sg9
-S'<Sent id="9.1"'
+S'&gt; Naturally you are forgiven :-)'
 p328
 ssS'8.14'
 p329
@@ -866,7 +866,7 @@ p329
 g8
 I00
 sg9
-S'<Sent id="8.14"'
+S'Charles McCathieNevile Fundaci?n Sidar'
 p331
 ssS'9.3'
 p332
@@ -874,7 +874,7 @@ p332
 g8
 I00
 sg9
-S'<Sent id="9.3"'
+S'&gt; - if passing the cost of accessibility to the customer is found to be legal then it suggests a particular way to pay for what appeared to be already legally necessary accessibility improvements, at least in Australia and the UK.'
 p334
 ssS'9.15'
 p335
@@ -890,7 +890,7 @@ p338
 g8
 I01
 sg9
-S'<Sent id="8.3"'
+S'- if passing the cost of accessibility to the customer is found to be legal then it suggests a particular way to pay for what appeared to be already legally necessary accessibility improvements, at least in Australia and the UK.'
 p340
 ssS'6.4'
 p341
@@ -906,7 +906,7 @@ p344
 g8
 I00
 sg9
-S'<Sent id="9.9"'
+S'ASCII Ribbon Campaign accessBob'
 p346
 ssS'5.10'
 p347
@@ -930,7 +930,7 @@ p353
 g8
 I00
 sg9
-S'<Sent id="8.12"'
+S'&gt; Paul'
 p355
 ssS'5.4'
 p356
@@ -938,7 +938,7 @@ p356
 g8
 I00
 sg9
-S'<Sent id="5.4"'
+S"&gt;&gt; They charge the airlines for the use of the wheelchair lifts, I don't think any other airline passes the charge on the customer, whereas Ryan Air pass *everything*"
 p358
 ssS'9.6'
 p359
@@ -946,7 +946,7 @@ p359
 g8
 I00
 sg9
-S'<Sent id="9.6"'
+S'"They that can give up essential liberty to obtain a little temporary'
 p361
 ssS'8.4'
 p362
@@ -970,7 +970,7 @@ p368
 g8
 I01
 sg9
-S'<Sent id="7.2"'
+S'can you?'
 p370
 ssS'9.7'
 p371
@@ -978,7 +978,7 @@ p371
 g8
 I00
 sg9
-S'<Sent id="9.7"'
+S'safety deserve Neither liberty nor safety", Benjamin Franklin'
 p373
 ssS'8.7'
 p374
@@ -986,7 +986,7 @@ p374
 g8
 I00
 sg9
-S'<Sent id="8.7"'
+S'Chaals'
 p376
 ssS'7.3'
 p377
@@ -994,7 +994,7 @@ p377
 g8
 I01
 sg9
-S'<Sent id="7.3"'
+S'err..please?'
 p379
 ssS'5.7'
 p380
@@ -1018,7 +1018,7 @@ p386
 g8
 I00
 sg9
-S'<Sent id="8.9"'
+S'&gt; can you?'
 p388
 ssS'2.8'
 p389
@@ -1026,7 +1026,7 @@ p389
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&amp;lt;http://www.hackcraft.net/&amp;gt; | for sick children:'
 p391
 ssS'9.2'
 p392
@@ -1058,7 +1058,7 @@ p401
 g8
 I00
 sg9
-S'<Sent id="8.11"'
+S'&gt; earnest smiles'
 p403
 ssS'6.2'
 p404
@@ -1066,7 +1066,7 @@ p404
 g8
 I00
 sg9
-S'<Sent id="6.2"'
+S'&gt; Take it up off-list.'
 p406
 ssssS'059-9045120'
 p407
@@ -2513,7 +2513,7 @@ p950
 g8
 I00
 sg9
-S'<Sent id="1.4"'
+S'special needs teacher'
 p952
 ssS'1.5'
 p953
@@ -2521,7 +2521,7 @@ p953
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S'web accessibility consultant'
 p955
 ssS'1.6'
 p956
@@ -2529,7 +2529,7 @@ p956
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'&gt; Jonathan,'
 p958
 ssS'1.7'
 p959
@@ -2553,7 +2553,7 @@ p965
 g8
 I01
 sg9
-S'<Sent id="1.1"'
+S'please excuse cross-posting, I have copied this too the list as there has been some discussion over the past 24 months as to the use or lack thereof of animation'
 p967
 ssS'1.2'
 p968
@@ -2561,7 +2561,7 @@ p968
 g8
 I00
 sg9
-S'<Sent id="1.2"'
+S'jonathan chetwynd'
 p970
 ssS'1.3'
 p971
@@ -2569,7 +2569,7 @@ p971
 g8
 I00
 sg9
-S'<Sent id="1.3"'
+S'jc@signbrowser.org.uk'
 p973
 ssS'3.10'
 p974
@@ -2577,7 +2577,7 @@ p974
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'Director of Accessibility, Edapta http://www.edapta.com/'
 p976
 ssS'3.11'
 p977
@@ -2585,7 +2585,7 @@ p977
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/'
 p979
 ssS'3.12'
 p980
@@ -2593,7 +2593,7 @@ p980
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'AWARE Center Director http://www.awarecenter.org/'
 p982
 ssS'3.13'
 p983
@@ -2625,7 +2625,7 @@ p992
 g8
 I00
 sg9
-S'<Sent id="7.6"'
+S'--Kynn'
 p994
 ssS'3.6'
 p995
@@ -2633,7 +2633,7 @@ p995
 g8
 I01
 sg9
-S'<Sent id="3.6"'
+S'In fact, I have it on the shelf behind me at work as I type this, beside my XHTML, XSLT, CSS, usability, and disability references.'
 p997
 ssS'3.7'
 p998
@@ -2641,7 +2641,7 @@ p998
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'--Kynn'
 p1000
 ssS'3.4'
 p1001
@@ -2673,7 +2673,7 @@ p1010
 g8
 I01
 sg9
-S'<Sent id="3.3"'
+S'There is a lot of reading that is non-textual.'
 p1012
 ssS'6.1'
 p1013
@@ -2681,7 +2681,7 @@ p1013
 g8
 I00
 sg9
-S'<Sent id="6.1"'
+S'&gt; In fact, I have it on the shelf behind me at work as I type this, beside my XHTML, XSLT, CSS, usability, and disability references.'
 p1015
 ssS'3.1'
 p1016
@@ -2689,7 +2689,7 @@ p1016
 g8
 I00
 sg9
-S'<Sent id="3.1"'
+S'&gt; In at least the commonest definition of the word "read", the matter that one reads is "text".'
 p1018
 ssS'2.3'
 p1019
@@ -2697,7 +2697,7 @@ p1019
 g8
 I01
 sg9
-S'<Sent id="2.3"'
+S'Perhaps it would be "nice" for people for whom text is a problem but just how is it "possible".'
 p1021
 ssS'2.2'
 p1022
@@ -2713,7 +2713,7 @@ p1025
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'&gt; CBMcD: "...someone is actually doing something to make reading and communication more possible in this text-heavy learning environment."'
 p1027
 ssS'7.9'
 p1028
@@ -2721,7 +2721,7 @@ p1028
 g8
 I00
 sg9
-S'<Sent id="7.9"'
+S'Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt;'
 p1030
 ssS'2.7'
 p1031
@@ -2729,7 +2729,7 @@ p1031
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'Love.'
 p1033
 ssS'2.6'
 p1034
@@ -2737,7 +2737,7 @@ p1034
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'--'
 p1036
 ssS'2.5'
 p1037
@@ -2777,7 +2777,7 @@ p1049
 g8
 I01
 sg9
-S'<Sent id="1.14"'
+S'&gt; Your gifs are slow, are black and white mostly, and are simple movements, not swaying or twirling.'
 p1051
 ssS'1.15'
 p1052
@@ -2825,7 +2825,7 @@ p1067
 g8
 I01
 sg9
-S'<Sent id="1.18"'
+S"&gt; I'm pleased to see that someone is actually doing something to make reading and communication more possible in this text-heavy learning environment."
 p1069
 ssS'1.19'
 p1070
@@ -2833,7 +2833,7 @@ p1070
 g8
 I00
 sg9
-S'<Sent id="1.19"'
+S'&gt; Sincerely,'
 p1072
 ssS'7.8'
 p1073
@@ -2841,7 +2841,7 @@ p1073
 g8
 I00
 sg9
-S'<Sent id="7.8"'
+S'--'
 p1075
 ssS'3.8'
 p1076
@@ -2849,7 +2849,7 @@ p1076
 g8
 I00
 sg9
-S'<Sent id="3.8"'
+S'--'
 p1078
 ssS'7.7'
 p1079
@@ -2857,7 +2857,7 @@ p1079
 g8
 I00
 sg9
-S'<Sent id="7.7"'
+S'--'
 p1081
 ssS'7.4'
 p1082
@@ -2873,7 +2873,7 @@ p1085
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://kynn.com/'
 p1087
 ssS'5.1'
 p1088
@@ -2881,7 +2881,7 @@ p1088
 g8
 I00
 sg9
-S'<Sent id="5.1"'
+S"&gt; I'm pleased to see that someone is actually doing something to make reading and communication more possible in this text-heavy learning environment."
 p1090
 ssS'6.2'
 p1091
@@ -2889,7 +2889,7 @@ p1091
 g8
 I01
 sg9
-S'<Sent id="6.2"'
+S'Is this bookshelf documented on Kynn.COM, or would you consider sharing with us a short list of the references you find the most helpful?'
 p1093
 ssS'5.4'
 p1094
@@ -2921,7 +2921,7 @@ p1103
 g8
 I01
 sg9
-S'<Sent id="7.5"'
+S"I'll post mine on kynn.com tomorrow when I'm back in the office."
 p1105
 ssS'4.1'
 p1106
@@ -2937,7 +2937,7 @@ p1109
 g8
 I01
 sg9
-S'<Sent id="5.5"'
+S"I'd appreciate any useful ideas/references that you or anyone else reading this may have."
 p1111
 ssS'7.1'
 p1112
@@ -2945,7 +2945,7 @@ p1112
 g8
 I00
 sg9
-S'<Sent id="7.1"'
+S'&gt; Is this bookshelf documented on Kynn.COM, or would you consider sharing with us a short list of the references you find the most helpful?'
 p1114
 ssS'7.2'
 p1115
@@ -2961,7 +2961,7 @@ p1118
 g8
 I00
 sg9
-S'<Sent id="5.6"'
+S'Thanks!'
 p1120
 ssS'7.3'
 p1121
@@ -2993,7 +2993,7 @@ p1130
 g8
 I01
 sg9
-S'<Sent id="3.5"'
+S'It deals with the (U.S.) comic book medium and has some interesting thoughts and concepts on the "language of comics" as a blend between graphical and text media.'
 p1132
 ssS'1.23'
 p1133
@@ -3001,7 +3001,7 @@ p1133
 g8
 I00
 sg9
-S'<Sent id="1.23"'
+S'&gt; 402-472-3148'
 p1135
 ssS'1.22'
 p1136
@@ -3009,7 +3009,7 @@ p1136
 g8
 I00
 sg9
-S'<Sent id="1.22"'
+S'&gt; CLASS - University of Nebraska-Lincoln'
 p1138
 ssS'1.21'
 p1139
@@ -3017,7 +3017,7 @@ p1139
 g8
 I00
 sg9
-S'<Sent id="1.21"'
+S'&gt; Instruction Design Specialist'
 p1141
 ssS'1.20'
 p1142
@@ -3025,7 +3025,7 @@ p1142
 g8
 I00
 sg9
-S'<Sent id="1.20"'
+S'&gt; Cynthia Blodgett-McDeavitt'
 p1144
 ssS'1.25'
 p1145
@@ -3041,7 +3041,7 @@ p1148
 g8
 I00
 sg9
-S'<Sent id="1.24"'
+S'&gt; 402-472-1941 (f)'
 p1150
 ssssS'023-2964247'
 p1151
@@ -3054,7 +3054,7 @@ p1154
 g8
 I01
 sg9
-S'<Sent id="1.4"'
+S'- a chance to meet others and bring someone like me (who missed the workshop) up to speed on what is happening.'
 p1156
 ssS'1.5'
 p1157
@@ -3062,7 +3062,7 @@ p1157
 g8
 I01
 sg9
-S'<Sent id="1.5"'
+S'Like all CHIs, there will be many competing activities, so the sooner we can set this up the more likely I can attend.'
 p1159
 ssS'1.6'
 p1160
@@ -3070,7 +3070,7 @@ p1160
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'Keith'
 p1162
 ssS'1.7'
 p1163
@@ -3078,7 +3078,7 @@ p1163
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'--'
 p1165
 ssS'4.15'
 p1166
@@ -3086,7 +3086,7 @@ p1166
 g8
 I00
 sg9
-S'<Sent id="4.15"'
+S'&gt;&gt; - a chance to meet others and bring someone like me (who missed the workshop) up to speed on what is happening.'
 p1168
 ssS'1.1'
 p1169
@@ -3102,7 +3102,7 @@ p1172
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'- will there be anything happening at the conference related to this W3C User interest group?'
 p1174
 ssS'1.3'
 p1175
@@ -3126,7 +3126,7 @@ p1181
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'&gt; Sharon'
 p1183
 ssS'3.12'
 p1184
@@ -3134,7 +3134,7 @@ p1184
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'Quoting Keith Instone &lt;keith@instone.org&gt; :'
 p1186
 ssS'3.13'
 p1187
@@ -3142,7 +3142,7 @@ p1187
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'&gt;&gt; I am planning my schedule at CHI 2003 &amp;lt;http://www.chi2003.org/&amp;gt; -'
 p1189
 ssS'1.8'
 p1190
@@ -3166,7 +3166,7 @@ p1196
 g8
 I00
 sg9
-S'<Sent id="3.16"'
+S'&gt;&gt; - a chance to meet others and bring someone like me (who missed the workshop) up to speed on what is happening.'
 p1198
 ssS'3.17'
 p1199
@@ -3174,7 +3174,7 @@ p1199
 g8
 I00
 sg9
-S'<Sent id="3.17"'
+S'&gt;&gt; Like all CHIs, there will be many competing activities, so the sooner we can set this up the more likely I can attend.'
 p1201
 ssS'3.6'
 p1202
@@ -3198,7 +3198,7 @@ p1208
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'&gt; will there be anything happening at the conference related to this  W3C User interest group?'
 p1210
 ssS'2.8'
 p1211
@@ -3206,7 +3206,7 @@ p1211
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&gt; I am planning my schedule at CHI 2003 &amp;lt;http://www.chi2003.org/&amp;gt; -'
 p1213
 ssS'3.2'
 p1214
@@ -3214,7 +3214,7 @@ p1214
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'I had to check with Matt May to make sure things were still in synch on the working group.'
 p1216
 ssS'3.3'
 p1217
@@ -3222,7 +3222,7 @@ p1217
 g8
 I01
 sg9
-S'<Sent id="3.3"'
+S"Let's not lose our zeal folks!"
 p1219
 ssS'6.1'
 p1220
@@ -3230,7 +3230,7 @@ p1220
 g8
 I01
 sg9
-S'<Sent id="6.1"'
+S'The most convenient time to schedule the W3C UIG informal sig discussion is: Tuesday 4/8 1-2:30pm'
 p1222
 ssS'3.1'
 p1223
@@ -3270,7 +3270,7 @@ p1235
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'Quoting Keith Instone &amp;lt;keith@instone.org&amp;gt; :'
 p1237
 ssS'2.6'
 p1238
@@ -3278,7 +3278,7 @@ p1238
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'Sharon'
 p1240
 ssS'2.5'
 p1241
@@ -3294,7 +3294,7 @@ p1244
 g8
 I01
 sg9
-S'<Sent id="2.4"'
+S'However, if you email me that you are interested in meeting at CHI, I can try to arrange something--'
 p1246
 ssS'4.5'
 p1247
@@ -3310,7 +3310,7 @@ p1250
 g8
 I00
 sg9
-S'<Sent id="4.4"'
+S'Sharon Laskowski wrote:'
 p1252
 ssS'4.7'
 p1253
@@ -3342,7 +3342,7 @@ p1262
 g8
 I00
 sg9
-S'<Sent id="4.17"'
+S'&gt;&gt; Keith'
 p1264
 ssS'4.3'
 p1265
@@ -3350,7 +3350,7 @@ p1265
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'Chip'
 p1267
 ssS'4.2'
 p1268
@@ -3358,7 +3358,7 @@ p1268
 g8
 I01
 sg9
-S'<Sent id="4.2"'
+S'Did this plan change?'
 p1270
 ssS'3.19'
 p1271
@@ -3374,7 +3374,7 @@ p1274
 g8
 I00
 sg9
-S'<Sent id="4.24"'
+S'Sun Microsystems, Menlo Park 650/786-4551 (or x84551)'
 p1276
 ssS'4.16'
 p1277
@@ -3382,7 +3382,7 @@ p1277
 g8
 I00
 sg9
-S'<Sent id="4.16"'
+S'&gt;&gt; Like all CHIs, there will be many competing activities, so the sooner we can set this up the more likely I can attend.'
 p1279
 ssS'4.9'
 p1280
@@ -3406,7 +3406,7 @@ p1286
 g8
 I00
 sg9
-S'<Sent id="4.19"'
+S'--'
 p1288
 ssS'6.5'
 p1289
@@ -3414,7 +3414,7 @@ p1289
 g8
 I01
 sg9
-S'<Sent id="6.5"'
+S'If this is not available or there are conflicts, Wednesday 4/9 1-2:30 will be the backup.'
 p1291
 ssS'3.8'
 p1292
@@ -3430,7 +3430,7 @@ p1295
 g8
 I00
 sg9
-S'<Sent id="4.18"'
+S'&gt;&gt; keith@instone.org http://keith.instone.org/'
 p1297
 ssS'6.8'
 p1298
@@ -3446,7 +3446,7 @@ p1301
 g8
 I00
 sg9
-S'<Sent id="6.4"'
+S'As of Friday, this slot was still open for an informal SIG.'
 p1303
 ssS'4.11'
 p1304
@@ -3454,7 +3454,7 @@ p1304
 g8
 I00
 sg9
-S'<Sent id="4.11"'
+S'&gt; Quoting Keith Instone &amp;lt;keith@instone.org&amp;gt; :'
 p1306
 ssS'2.14'
 p1307
@@ -3470,7 +3470,7 @@ p1310
 g8
 I00
 sg9
-S'<Sent id="2.13"'
+S'&gt; Keith'
 p1312
 ssS'2.12'
 p1313
@@ -3478,7 +3478,7 @@ p1313
 g8
 I00
 sg9
-S'<Sent id="2.12"'
+S'&gt; Like all CHIs, there will be many competing activities, so the sooner we can set this up the more likely I can attend.'
 p1315
 ssS'2.11'
 p1316
@@ -3486,7 +3486,7 @@ p1316
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S'&gt; - a chance to meet others and bring someone like me (who missed the workshop) up to speed on what is happening.'
 p1318
 ssS'2.10'
 p1319
@@ -3510,7 +3510,7 @@ p1325
 g8
 I01
 sg9
-S'<Sent id="7.2"'
+S'We have a confirmed Informal SIG time slot for the W3C Usability Interest Group Planning at CHI:'
 p1327
 ssS'3.14'
 p1328
@@ -3518,7 +3518,7 @@ p1328
 g8
 I00
 sg9
-S'<Sent id="3.14"'
+S'&gt;&gt; will there be anything happening at the conference related to this  W3C User interest group?'
 p1330
 ssS'5.4'
 p1331
@@ -3542,7 +3542,7 @@ p1337
 g8
 I01
 sg9
-S'<Sent id="5.2"'
+S'Here is the plan for CHI:'
 p1339
 ssS'4.14'
 p1340
@@ -3566,7 +3566,7 @@ p1346
 g8
 I00
 sg9
-S'<Sent id="4.20"'
+S'__________________________________________________________'
 p1348
 ssS'4.12'
 p1349
@@ -3574,7 +3574,7 @@ p1349
 g8
 I00
 sg9
-S'<Sent id="4.12"'
+S'&gt;&gt; I am planning my schedule at CHI 2003 &amp;lt;http://www.chi2003.org/&amp;gt; -'
 p1351
 ssS'4.10'
 p1352
@@ -3582,7 +3582,7 @@ p1352
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'&gt; Sharon'
 p1354
 ssS'4.21'
 p1355
@@ -3590,7 +3590,7 @@ p1355
 g8
 I00
 sg9
-S'<Sent id="4.21"'
+S'C h i p A l e x a n d e r'
 p1357
 ssS'4.22'
 p1358
@@ -3598,7 +3598,7 @@ p1358
 g8
 I00
 sg9
-S'<Sent id="4.22"'
+S'Design Lead, User Interface Guidelines'
 p1360
 ssS'4.23'
 p1361
@@ -3606,7 +3606,7 @@ p1361
 g8
 I00
 sg9
-S'<Sent id="4.23"'
+S'CTO-User Experience Group Chip.Alexander@sun.com'
 p1363
 ssS'3.9'
 p1364
@@ -3630,7 +3630,7 @@ p1370
 g8
 I01
 sg9
-S'<Sent id="7.3"'
+S'Tuesday 4/8 1-2:30'
 p1372
 ssS'3.18'
 p1373
@@ -3638,7 +3638,7 @@ p1373
 g8
 I00
 sg9
-S'<Sent id="3.18"'
+S'&gt;&gt; Keith'
 p1375
 ssS'7.1'
 p1376
@@ -3646,7 +3646,7 @@ p1376
 g8
 I00
 sg9
-S'<Sent id="7.1"'
+S'CHI attendees:'
 p1378
 ssS'6.7'
 p1379
@@ -3654,7 +3654,7 @@ p1379
 g8
 I00
 sg9
-S'<Sent id="6.7"'
+S'Hope to see you next week.'
 p1381
 ssS'5.6'
 p1382
@@ -3662,7 +3662,7 @@ p1382
 g8
 I00
 sg9
-S'<Sent id="5.6"'
+S'Steven and I will also meet at CHI for planning purposes.'
 p1384
 ssS'6.6'
 p1385
@@ -3670,7 +3670,7 @@ p1385
 g8
 I01
 sg9
-S'<Sent id="6.6"'
+S'I will email the informal SIG people and get on the schedule this afternoon and confirm via this listserv.'
 p1387
 ssS'5.5'
 p1388
@@ -3694,7 +3694,7 @@ p1394
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'-Mike'
 p1396
 ssS'3.5'
 p1397
@@ -3702,7 +3702,7 @@ p1397
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'-----Original Message-----'
 p1399
 ssS'4.13'
 p1400
@@ -3710,7 +3710,7 @@ p1400
 g8
 I00
 sg9
-S'<Sent id="4.13"'
+S'&gt;&gt; will there be anything happening at the conference related to this  W3C User interest group?'
 p1402
 ssS'6.3'
 p1403
@@ -3718,7 +3718,7 @@ p1403
 g8
 I01
 sg9
-S'<Sent id="6.3"'
+S"I don't think we will need the entire 90 minutes so there will be time for lunch afterwards."
 p1405
 ssS'6.2'
 p1406
@@ -4440,7 +4440,7 @@ p1676
 g8
 I01
 sg9
-S'<Sent id="11.1"'
+S'And that person is still waiting to hear from the Webmaster.'
 p1678
 ssS'7.2'
 p1679
@@ -4448,7 +4448,7 @@ p1679
 g8
 I01
 sg9
-S'<Sent id="7.2"'
+S'Web Site Accessibility'
 p1681
 ssS'7.3'
 p1682
@@ -4456,7 +4456,7 @@ p1682
 g8
 I01
 sg9
-S'<Sent id="7.3"'
+S'Is your Web site accessible to the disabled?'
 p1684
 ssS'6.5'
 p1685
@@ -4464,7 +4464,7 @@ p1685
 g8
 I00
 sg9
-S'<Sent id="6.5"'
+S'--'
 p1687
 ssS'7.1'
 p1688
@@ -4472,7 +4472,7 @@ p1688
 g8
 I01
 sg9
-S'<Sent id="7.1"'
+S'Answers have gotten better.'
 p1690
 ssS'6.3'
 p1691
@@ -4488,7 +4488,7 @@ p1694
 g8
 I01
 sg9
-S'<Sent id="7.7"'
+S"3.) No - and I can't see the point of doing so 16%"
 p1696
 ssS'6.1'
 p1697
@@ -4496,7 +4496,7 @@ p1697
 g8
 I00
 sg9
-S'<Sent id="6.1"'
+S'&gt;&gt; I found this interesting Website accessibility poll on: http://www.iwks.com/default.asp'
 p1699
 ssS'7.5'
 p1700
@@ -4504,7 +4504,7 @@ p1700
 g8
 I01
 sg9
-S'<Sent id="7.5"'
+S'1.) Yes 22%'
 p1702
 ssS'7.8'
 p1703
@@ -4512,7 +4512,7 @@ p1703
 g8
 I01
 sg9
-S'<Sent id="7.8"'
+S'4.) No - it would be too difficult to do 6%'
 p1705
 ssS'7.9'
 p1706
@@ -4536,7 +4536,7 @@ p1712
 g8
 I00
 sg9
-S'<Sent id="1.16"'
+S'Fax: 020 7793 9299'
 p1714
 ssS'1.17'
 p1715
@@ -4544,7 +4544,7 @@ p1715
 g8
 I00
 sg9
-S'<Sent id="1.17"'
+S'URL: www.jkd.co.uk'
 p1717
 ssS'1.14'
 p1718
@@ -4552,7 +4552,7 @@ p1718
 g8
 I00
 sg9
-S'<Sent id="1.14"'
+S'SE11 5JH'
 p1720
 ssS'1.15'
 p1721
@@ -4560,7 +4560,7 @@ p1721
 g8
 I00
 sg9
-S'<Sent id="1.15"'
+S'Tel: 020 7793 9399'
 p1723
 ssS'1.12'
 p1724
@@ -4568,7 +4568,7 @@ p1724
 g8
 I00
 sg9
-S'<Sent id="1.12"'
+S'1-45 Durham Street'
 p1726
 ssS'1.13'
 p1727
@@ -4576,7 +4576,7 @@ p1727
 g8
 I00
 sg9
-S'<Sent id="1.13"'
+S'London'
 p1729
 ssS'1.10'
 p1730
@@ -4584,7 +4584,7 @@ p1730
 g8
 I00
 sg9
-S'<Sent id="1.10"'
+S'JKD'
 p1732
 ssS'1.11'
 p1733
@@ -4592,7 +4592,7 @@ p1733
 g8
 I00
 sg9
-S'<Sent id="1.11"'
+S'Westminster Business Square'
 p1735
 ssS'1.18'
 p1736
@@ -4600,7 +4600,7 @@ p1736
 g8
 I00
 sg9
-S'<Sent id="1.18"'
+S'---'
 p1738
 ssS'1.19'
 p1739
@@ -4616,7 +4616,7 @@ p1742
 g8
 I00
 sg9
-S'<Sent id="11.10"'
+S"&gt; Maybe if the site responds, he'll forward the answer to the list."
 p1744
 ssS'11.11'
 p1745
@@ -4624,7 +4624,7 @@ p1745
 g8
 I00
 sg9
-S'<Sent id="11.11"'
+S'&gt; Regards,'
 p1747
 ssS'6.7'
 p1748
@@ -4640,7 +4640,7 @@ p1751
 g8
 I00
 sg9
-S'<Sent id="6.6"'
+S'Tom Gilder'
 p1753
 ssS'6.4'
 p1754
@@ -4648,7 +4648,7 @@ p1754
 g8
 I00
 sg9
-S'<Sent id="6.4"'
+S"That's rather ironic considering the question."
 p1756
 ssS'7.6'
 p1757
@@ -4656,7 +4656,7 @@ p1757
 g8
 I01
 sg9
-S'<Sent id="7.6"'
+S'2.) No - but it will be within the next 12 months 15%'
 p1759
 ssS'6.2'
 p1760
@@ -4664,7 +4664,7 @@ p1760
 g8
 I00
 sg9
-S'<Sent id="6.2"'
+S'&gt; Where exactly?'
 p1762
 ssS'4.11'
 p1763
@@ -4672,7 +4672,7 @@ p1763
 g8
 I00
 sg9
-S'<Sent id="4.11"'
+S'VirusChecked by the Incepta Group plc'
 p1765
 ssS'4.10'
 p1766
@@ -4680,7 +4680,7 @@ p1766
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'_____________________________________________________________________'
 p1768
 ssS'4.12'
 p1769
@@ -4696,7 +4696,7 @@ p1772
 g8
 I01
 sg9
-S'<Sent id="7.4"'
+S'percent'
 p1774
 ssS'3.6'
 p1775
@@ -4704,7 +4704,7 @@ p1775
 g8
 I00
 sg9
-S'<Sent id="3.6"'
+S'- Tina Holmboe Greytower Technologies'
 p1777
 ssS'3.7'
 p1778
@@ -4712,7 +4712,7 @@ p1778
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'tina@greytower.net http://www.greytower.net/'
 p1780
 ssS'3.4'
 p1781
@@ -4720,7 +4720,7 @@ p1781
 g8
 I01
 sg9
-S'<Sent id="3.4"'
+S'Yes, please, an update to the list of the data would be beneficial to us who do not maintain the same browsers or have the same capabilities as those who coded that very, very interesting albeit ironic poll.'
 p1783
 ssS'3.5'
 p1784
@@ -4728,7 +4728,7 @@ p1784
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'--'
 p1786
 ssS'3.2'
 p1787
@@ -4744,7 +4744,7 @@ p1790
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S"- I can't get at the results either with Opera or Lynx."
 p1792
 ssS'3.1'
 p1793
@@ -4752,7 +4752,7 @@ p1793
 g8
 I00
 sg9
-S'<Sent id="3.1"'
+S'&gt; I found this interesting Website accessibility poll on: http://www.iwks.com/default.asp'
 p1795
 ssS'2.3'
 p1796
@@ -4768,7 +4768,7 @@ p1799
 g8
 I00
 sg9
-S'<Sent id="2.2"'
+S'&gt; I found this interesting Website accessibility poll on: http://www.iwks.com/default.asp'
 p1801
 ssS'2.1'
 p1802
@@ -4776,7 +4776,7 @@ p1802
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'&gt; Dear All,'
 p1804
 ssS'3.8'
 p1805
@@ -4792,7 +4792,7 @@ p1808
 g8
 I00
 sg9
-S'<Sent id="11.8"'
+S'&gt;&gt; is there any way to find out how many people have voted?'
 p1810
 ssS'10.1'
 p1811
@@ -4800,7 +4800,7 @@ p1811
 g8
 I00
 sg9
-S'<Sent id="10.1"'
+S'&gt; is there any way to find out how many people have voted?'
 p1813
 ssS'10.3'
 p1814
@@ -4808,7 +4808,7 @@ p1814
 g8
 I01
 sg9
-S'<Sent id="10.3"'
+S"Maybe if the site responds, he'll forward the answer to the list."
 p1816
 ssS'10.2'
 p1817
@@ -4832,7 +4832,7 @@ p1823
 g8
 I00
 sg9
-S'<Sent id="10.4"'
+S'Regards,'
 p1825
 ssS'11.14'
 p1826
@@ -4840,7 +4840,7 @@ p1826
 g8
 I00
 sg9
-S'<Sent id="11.14"'
+S'VirusChecked by the Incepta Group plc'
 p1828
 ssS'11.15'
 p1829
@@ -4856,7 +4856,7 @@ p1832
 g8
 I00
 sg9
-S'<Sent id="11.12"'
+S'&gt; Andy'
 p1834
 ssS'11.13'
 p1835
@@ -4864,7 +4864,7 @@ p1835
 g8
 I00
 sg9
-S'<Sent id="11.13"'
+S'_____________________________________________________________________'
 p1837
 ssS'9.10'
 p1838
@@ -4872,7 +4872,7 @@ p1838
 g8
 I00
 sg9
-S'<Sent id="9.10"'
+S'&gt; Tom Gilder'
 p1840
 ssS'9.11'
 p1841
@@ -4888,7 +4888,7 @@ p1844
 g8
 I00
 sg9
-S'<Sent id="8.1"'
+S'&gt; Answers have gotten better.'
 p1846
 ssS'8.3'
 p1847
@@ -4904,7 +4904,7 @@ p1850
 g8
 I00
 sg9
-S'<Sent id="8.2"'
+S'&gt; Web Site Accessibility'
 p1852
 ssS'8.5'
 p1853
@@ -4912,7 +4912,7 @@ p1853
 g8
 I00
 sg9
-S'<Sent id="8.5"'
+S'&gt; 1.) Yes 22%'
 p1855
 ssS'8.4'
 p1856
@@ -4920,7 +4920,7 @@ p1856
 g8
 I00
 sg9
-S'<Sent id="8.4"'
+S'&gt; percent'
 p1858
 ssS'8.7'
 p1859
@@ -4928,7 +4928,7 @@ p1859
 g8
 I00
 sg9
-S'<Sent id="8.7"'
+S'(it might have been swayed by it being posted here, though)? :)'
 p1861
 ssS'8.6'
 p1862
@@ -4944,7 +4944,7 @@ p1865
 g8
 I00
 sg9
-S'<Sent id="8.9"'
+S'Tom Gilder'
 p1867
 ssS'8.8'
 p1868
@@ -4952,7 +4952,7 @@ p1868
 g8
 I00
 sg9
-S'<Sent id="8.8"'
+S'--'
 p1870
 ssS'9.8'
 p1871
@@ -4960,7 +4960,7 @@ p1871
 g8
 I00
 sg9
-S'<Sent id="9.8"'
+S'&gt; (it might have been swayed by it being posted here, though)? :)'
 p1873
 ssS'9.9'
 p1874
@@ -4968,7 +4968,7 @@ p1874
 g8
 I00
 sg9
-S'<Sent id="9.9"'
+S'&gt; --'
 p1876
 ssS'9.4'
 p1877
@@ -4984,7 +4984,7 @@ p1880
 g8
 I00
 sg9
-S'<Sent id="9.5"'
+S'&gt;&gt; percent'
 p1882
 ssS'9.6'
 p1883
@@ -4992,7 +4992,7 @@ p1883
 g8
 I00
 sg9
-S'<Sent id="9.6"'
+S'&gt;&gt; 1.) Yes 22%'
 p1885
 ssS'9.7'
 p1886
@@ -5008,7 +5008,7 @@ p1889
 g8
 I01
 sg9
-S'<Sent id="9.1"'
+S'is there any way to find out how many people have voted?'
 p1891
 ssS'9.2'
 p1892
@@ -5016,7 +5016,7 @@ p1892
 g8
 I00
 sg9
-S'<Sent id="9.2"'
+S'&gt;&gt; Answers have gotten better.'
 p1894
 ssS'9.3'
 p1895
@@ -5024,7 +5024,7 @@ p1895
 g8
 I00
 sg9
-S'<Sent id="9.3"'
+S'&gt;&gt; Web Site Accessibility'
 p1897
 ssS'1.4'
 p1898
@@ -5032,7 +5032,7 @@ p1898
 g8
 I01
 sg9
-S'<Sent id="1.4"'
+S"- it's just that the results are very interesting and I would be happy to send an update to the list later on with the final results so we can all benefit from it."
 p1900
 ssS'1.5'
 p1901
@@ -5040,7 +5040,7 @@ p1901
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S'Kind regards'
 p1903
 ssS'1.6'
 p1904
@@ -5048,7 +5048,7 @@ p1904
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'Simon'
 p1906
 ssS'1.7'
 p1907
@@ -5056,7 +5056,7 @@ p1907
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'---'
 p1909
 ssS'1.1'
 p1910
@@ -5064,7 +5064,7 @@ p1910
 g8
 I00
 sg9
-S'<Sent id="1.1"'
+S'Dear All,'
 p1912
 ssS'1.2'
 p1913
@@ -5072,7 +5072,7 @@ p1913
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'I found this interesting Website accessibility poll on: http://www.iwks.com/default.asp'
 p1915
 ssS'1.3'
 p1916
@@ -5088,7 +5088,7 @@ p1919
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'Simon White'
 p1921
 ssS'1.9'
 p1922
@@ -5096,7 +5096,7 @@ p1922
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Business Solutions'
 p1924
 ssS'4.5'
 p1925
@@ -5112,7 +5112,7 @@ p1928
 g8
 I01
 sg9
-S'<Sent id="4.4"'
+S'The poll is just visible without scrolling down, underneath the Internet Works magazine image.'
 p1930
 ssS'5.2'
 p1931
@@ -5128,7 +5128,7 @@ p1934
 g8
 I01
 sg9
-S'<Sent id="4.6"'
+S'Does anyone need better directions?'
 p1936
 ssS'5.4'
 p1937
@@ -5152,7 +5152,7 @@ p1943
 g8
 I01
 sg9
-S'<Sent id="4.3"'
+S'A perennial portal problem...'
 p1945
 ssS'4.2'
 p1946
@@ -5168,7 +5168,7 @@ p1949
 g8
 I01
 sg9
-S'<Sent id="11.4"'
+S'I will email again today and see if I can get an answer for the list.'
 p1951
 ssS'11.5'
 p1952
@@ -5176,7 +5176,7 @@ p1952
 g8
 I01
 sg9
-S'<Sent id="11.5"'
+S'Further apologies for those who could not access the poll, but I think that this is often typical of sites that run articles or polls on accessibility, and a complaint has been logged with the site.'
 p1954
 ssS'11.6'
 p1955
@@ -5184,7 +5184,7 @@ p1955
 g8
 I01
 sg9
-S'<Sent id="11.6"'
+S'Kind regards'
 p1957
 ssS'11.7'
 p1958
@@ -5192,7 +5192,7 @@ p1958
 g8
 I01
 sg9
-S'<Sent id="11.7"'
+S'Simon'
 p1960
 ssS'4.9'
 p1961
@@ -5200,7 +5200,7 @@ p1961
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'&gt; Where exactly?'
 p1963
 ssS'4.8'
 p1964
@@ -5208,7 +5208,7 @@ p1964
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'&gt;&gt; I found this interesting Website accessibility poll on: http://www.iwks.com/default.asp'
 p1966
 ssS'11.2'
 p1967
@@ -5232,7 +5232,7 @@ p1973
 g8
 I00
 sg9
-S'<Sent id="5.1"'
+S'&gt; Yes, please, an update to the list of the data would be beneficial to us who do not maintain the same browsers or have the same capabilities as those who coded that very, very interesting albeit ironic poll.'
 p1975
 ssS'4.7'
 p1976
@@ -5240,7 +5240,7 @@ p1976
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'&gt;&gt; Dear All,'
 p1978
 ssS'5.3'
 p1979
@@ -5248,7 +5248,7 @@ p1979
 g8
 I01
 sg9
-S'<Sent id="5.3"'
+S"That's just wonderful news."
 p1981
 ssS'4.1'
 p1982
@@ -5293,7 +5293,7 @@ p1997
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S"I gather that there's no such thing as a perfect list but I need to put one together anyway."
 p1999
 ssS'1.6'
 p2000
@@ -5325,7 +5325,7 @@ p2009
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S"This is a very large ballpark and I need to narrow the options we're going to explore."
 p2011
 ssS'1.3'
 p2012
@@ -5341,7 +5341,7 @@ p2015
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'Charles McCathieNevile'
 p2017
 ssS'3.11'
 p2018
@@ -5365,7 +5365,7 @@ p2024
 g8
 I01
 sg9
-S'<Sent id="1.8"'
+S"Please respond privately so I don't get shot for starting another browser war."
 p2026
 ssS'1.9'
 p2027
@@ -5373,7 +5373,7 @@ p2027
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Regards,'
 p2029
 ssS'3.6'
 p2030
@@ -5389,7 +5389,7 @@ p2033
 g8
 I01
 sg9
-S'<Sent id="3.7"'
+S'- this will generally show up the problems much faster.'
 p2035
 ssS'2.9'
 p2036
@@ -5397,7 +5397,7 @@ p2036
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'-Jamie Fox'
 p2038
 ssS'2.8'
 p2039
@@ -5405,7 +5405,7 @@ p2039
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'refined)'
 p2041
 ssS'3.2'
 p2042
@@ -5413,7 +5413,7 @@ p2042
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'(You are just the 1% prepared to put their hand up and ask...)'
 p2044
 ssS'3.3'
 p2045
@@ -5469,7 +5469,7 @@ p2063
 g8
 I01
 sg9
-S'<Sent id="2.7"'
+S'http://www.geocities.com/SiliconValley/Grid/5447/access.html (not yet'
 p2065
 ssS'2.6'
 p2066
@@ -5477,7 +5477,7 @@ p2066
 g8
 I01
 sg9
-S'<Sent id="2.6"'
+S'http://www.eeicom.com/dcwebmasters/pwd/'
 p2068
 ssS'2.5'
 p2069
@@ -5485,7 +5485,7 @@ p2069
 g8
 I01
 sg9
-S'<Sent id="2.5"'
+S'See also:'
 p2071
 ssS'2.4'
 p2072
@@ -5493,7 +5493,7 @@ p2072
 g8
 I01
 sg9
-S'<Sent id="2.4"'
+S'It might be sensible to have disabled users actually do the testing.'
 p2074
 ssS'5.1'
 p2075
@@ -5501,7 +5501,7 @@ p2075
 g8
 I01
 sg9
-S'<Sent id="5.1"'
+S'FYI, "EEI Communications" was off-line this morning and is now operational.'
 p2077
 ssS'5.2'
 p2078
@@ -5517,7 +5517,7 @@ p2081
 g8
 I00
 sg9
-S'<Sent id="5.3"'
+S'&gt;&gt; I would show you exactly where to go, but having connectivity problems with the work server.'
 p2083
 ssS'4.1'
 p2084
@@ -5533,7 +5533,7 @@ p2087
 g8
 I00
 sg9
-S'<Sent id="5.5"'
+S"&gt; I can't connect this morning but I'll try later."
 p2089
 ssS'1.10'
 p2090
@@ -5581,7 +5581,7 @@ p2105
 g8
 I00
 sg9
-S'<Sent id="2.18"'
+S'&gt; Regards,'
 p2107
 ssS'2.17'
 p2108
@@ -5589,7 +5589,7 @@ p2108
 g8
 I00
 sg9
-S'<Sent id="2.17"'
+S"&gt; Please respond privately so I don't get shot for starting another browser war."
 p2110
 ssS'2.16'
 p2111
@@ -5613,7 +5613,7 @@ p2117
 g8
 I00
 sg9
-S'<Sent id="2.14"'
+S"&gt; I gather that there's no such thing as a perfect list but I need to put one together anyway."
 p2119
 ssS'2.13'
 p2120
@@ -5637,7 +5637,7 @@ p2126
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S"&gt; This is a very large ballpark and I need to narrow the options we're going to explore."
 p2128
 ssS'2.10'
 p2129
@@ -5653,7 +5653,7 @@ p2132
 g8
 I01
 sg9
-S'<Sent id="6.4"'
+S'I recommend it to my accessibility class students, since the more browsers you expose someone to, the quicker they realize that the web is designed to support ANY valid user agent, not just "the big two".'
 p2134
 ssS'5.4'
 p2135
@@ -5661,7 +5661,7 @@ p2135
 g8
 I00
 sg9
-S'<Sent id="5.4"'
+S'&gt; They must be having a problem.'
 p2137
 ssS'3.9'
 p2138
@@ -5669,7 +5669,7 @@ p2138
 g8
 I01
 sg9
-S'<Sent id="3.9"'
+S'It is a great efficiency if you can solve the problems by design rather than by repair.'
 p2140
 ssS'5.6'
 p2141
@@ -5677,7 +5677,7 @@ p2141
 g8
 I00
 sg9
-S'<Sent id="5.6"'
+S'&gt; Thanks for the suggestion.'
 p2143
 ssS'3.4'
 p2144
@@ -5685,7 +5685,7 @@ p2144
 g8
 I01
 sg9
-S'<Sent id="3.4"'
+S"The first thing I would do is validate the HTML and check with Bobby, but read the results and think about it rather than simply believing what you're told."
 p2146
 ssS'3.5'
 p2147
@@ -5709,7 +5709,7 @@ p2153
 g8
 I00
 sg9
-S'<Sent id="6.2"'
+S'&gt; If you can, use WebTV [...]'
 p2155
 ssssS'058-13714734'
 p2156
@@ -8630,7 +8630,7 @@ p3254
 g8
 I01
 sg9
-S'<Sent id="1.5"'
+S'Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.'
 p3256
 ssS'1.6'
 p3257
@@ -8638,7 +8638,7 @@ p3257
 g8
 I01
 sg9
-S'<Sent id="1.6"'
+S'Can people check their diaries for these dates and inform the chairs asap.'
 p3259
 ssS'1.7'
 p3260
@@ -8646,7 +8646,7 @@ p3260
 g8
 I01
 sg9
-S'<Sent id="1.7"'
+S'SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host.'
 p3262
 ssS'1.1'
 p3263
@@ -8654,7 +8654,7 @@ p3263
 g8
 I01
 sg9
-S'<Sent id="1.1"'
+S'We are trying to do advanced planning for a F2F in September.'
 p3265
 ssS'1.2'
 p3266
@@ -8670,7 +8670,7 @@ p3269
 g8
 I01
 sg9
-S'<Sent id="1.3"'
+S"This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs."
 p3271
 ssS'3.10'
 p3272
@@ -8678,7 +8678,7 @@ p3272
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'&gt;&gt; Can people check their diaries for these dates and inform the chairs asap.'
 p3274
 ssS'3.11'
 p3275
@@ -8686,7 +8686,7 @@ p3275
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'&gt;&gt; SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host.'
 p3277
 ssS'3.12'
 p3278
@@ -8694,7 +8694,7 @@ p3278
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'&gt;&gt; Offers gratefully accepted.'
 p3280
 ssS'3.13'
 p3281
@@ -8702,7 +8702,7 @@ p3281
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'&gt;&gt; Cheers,'
 p3283
 ssS'1.8'
 p3284
@@ -8710,7 +8710,7 @@ p3284
 g8
 I01
 sg9
-S'<Sent id="1.8"'
+S'Offers gratefully accepted.'
 p3286
 ssS'1.9'
 p3287
@@ -8718,7 +8718,7 @@ p3287
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Cheers,'
 p3289
 ssS'3.16'
 p3290
@@ -8726,7 +8726,7 @@ p3290
 g8
 I00
 sg9
-S'<Sent id="3.16"'
+S'&gt;&gt; Martin Chapman 500 Oracle Parkway'
 p3292
 ssS'3.17'
 p3293
@@ -8734,7 +8734,7 @@ p3293
 g8
 I00
 sg9
-S'<Sent id="3.17"'
+S'&gt;&gt; Consulting Member of Technical Staff Ms 4op990'
 p3295
 ssS'3.6'
 p3296
@@ -8750,7 +8750,7 @@ p3299
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S"&gt;&gt; This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs."
 p3301
 ssS'2.9'
 p3302
@@ -8758,7 +8758,7 @@ p3302
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'&gt; SAP have offered to host the meeting in Germany (thanks Kevin), but should the BPEL TC decide to meet in Seattle, we would need to find a host.'
 p3304
 ssS'2.8'
 p3305
@@ -8766,7 +8766,7 @@ p3305
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&gt; Can people check their diaries for these dates and inform the chairs asap.'
 p3307
 ssS'3.2'
 p3308
@@ -8774,7 +8774,7 @@ p3308
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'Francis McCabe wrote:'
 p3310
 ssS'3.3'
 p3311
@@ -8782,7 +8782,7 @@ p3311
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'&gt; Where in Germany?'
 p3313
 ssS'3.1'
 p3314
@@ -8790,7 +8790,7 @@ p3314
 g8
 I01
 sg9
-S'<Sent id="3.1"'
+S'SAP is in Waldorf not far from Heidelberg'
 p3316
 ssS'2.3'
 p3317
@@ -8798,7 +8798,7 @@ p3317
 g8
 I00
 sg9
-S'<Sent id="2.3"'
+S'&gt; We are trying to do advanced planning for a F2F in September.'
 p3319
 ssS'2.2'
 p3320
@@ -8806,7 +8806,7 @@ p3320
 g8
 I00
 sg9
-S'<Sent id="2.2"'
+S'On Friday, May 30, 2003, at 09:13 AM, Martin Chapman wrote:'
 p3322
 ssS'2.1'
 p3323
@@ -8814,7 +8814,7 @@ p3323
 g8
 I01
 sg9
-S'<Sent id="2.1"'
+S'Where in Germany?'
 p3325
 ssS'2.7'
 p3326
@@ -8822,7 +8822,7 @@ p3326
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'&gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.'
 p3328
 ssS'2.6'
 p3329
@@ -8838,7 +8838,7 @@ p3332
 g8
 I00
 sg9
-S'<Sent id="2.5"'
+S"&gt; This is not a joint meeting, and is being proposed purely to ease travel logistics and members' costs."
 p3334
 ssS'2.4'
 p3335
@@ -8870,7 +8870,7 @@ p3344
 g8
 I00
 sg9
-S'<Sent id="1.14"'
+S'Oracle Redwood Shores,'
 p3346
 ssS'1.15'
 p3347
@@ -8878,7 +8878,7 @@ p3347
 g8
 I00
 sg9
-S'<Sent id="1.15"'
+S'P: +1 650 506 6941 CA 94065'
 p3349
 ssS'1.12'
 p3350
@@ -8886,7 +8886,7 @@ p3350
 g8
 I00
 sg9
-S'<Sent id="1.12"'
+S'Martin Chapman 500 Oracle Parkway'
 p3352
 ssS'1.13'
 p3353
@@ -8894,7 +8894,7 @@ p3353
 g8
 I00
 sg9
-S'<Sent id="1.13"'
+S'Consulting Member of Technical Staff Ms 4op990'
 p3355
 ssS'1.10'
 p3356
@@ -8902,7 +8902,7 @@ p3356
 g8
 I00
 sg9
-S'<Sent id="1.10"'
+S'Martin.'
 p3358
 ssS'1.11'
 p3359
@@ -8910,7 +8910,7 @@ p3359
 g8
 I00
 sg9
-S'<Sent id="1.11"'
+S'_________________________________________________________________'
 p3361
 ssS'3.19'
 p3362
@@ -8918,7 +8918,7 @@ p3362
 g8
 I00
 sg9
-S'<Sent id="3.19"'
+S'&gt;&gt; P: +1 650 506 6941 CA 94065'
 p3364
 ssS'5.9'
 p3365
@@ -8926,7 +8926,7 @@ p3365
 g8
 I00
 sg9
-S'<Sent id="5.9"'
+S'&gt;&gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.'
 p3367
 ssS'5.6'
 p3368
@@ -8934,7 +8934,7 @@ p3368
 g8
 I00
 sg9
-S'<Sent id="5.6"'
+S'Mart'
 p3370
 ssS'3.20'
 p3371
@@ -8958,7 +8958,7 @@ p3377
 g8
 I00
 sg9
-S'<Sent id="5.7"'
+S'&gt; -----Original Message-----'
 p3379
 ssS'2.18'
 p3380
@@ -8974,7 +8974,7 @@ p3383
 g8
 I00
 sg9
-S'<Sent id="2.17"'
+S'&gt; P: +1 650 506 6941 CA 94065'
 p3385
 ssS'2.16'
 p3386
@@ -8982,7 +8982,7 @@ p3386
 g8
 I00
 sg9
-S'<Sent id="2.16"'
+S'&gt; Oracle Redwood Shores,'
 p3388
 ssS'2.15'
 p3389
@@ -8990,7 +8990,7 @@ p3389
 g8
 I00
 sg9
-S'<Sent id="2.15"'
+S'&gt; Consulting Member of Technical Staff Ms 4op990'
 p3391
 ssS'2.14'
 p3392
@@ -8998,7 +8998,7 @@ p3392
 g8
 I00
 sg9
-S'<Sent id="2.14"'
+S'&gt; Martin Chapman 500 Oracle Parkway'
 p3394
 ssS'2.13'
 p3395
@@ -9006,7 +9006,7 @@ p3395
 g8
 I00
 sg9
-S'<Sent id="2.13"'
+S'&gt; _________________________________________________________________'
 p3397
 ssS'2.12'
 p3398
@@ -9014,7 +9014,7 @@ p3398
 g8
 I00
 sg9
-S'<Sent id="2.12"'
+S'&gt; Martin.'
 p3400
 ssS'2.11'
 p3401
@@ -9022,7 +9022,7 @@ p3401
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S'&gt; Cheers,'
 p3403
 ssS'2.10'
 p3404
@@ -9030,7 +9030,7 @@ p3404
 g8
 I00
 sg9
-S'<Sent id="2.10"'
+S'&gt; Offers gratefully accepted.'
 p3406
 ssS'4.5'
 p3407
@@ -9046,7 +9046,7 @@ p3410
 g8
 I01
 sg9
-S'<Sent id="5.1"'
+S"It's certainly possible, but we shouldn't get into an n-phase transaction:"
 p3412
 ssS'3.14'
 p3413
@@ -9054,7 +9054,7 @@ p3413
 g8
 I00
 sg9
-S'<Sent id="3.14"'
+S'&gt;&gt; Martin.'
 p3415
 ssS'5.11'
 p3416
@@ -9070,7 +9070,7 @@ p3419
 g8
 I01
 sg9
-S'<Sent id="5.4"'
+S'Of course of bpel meet the following week ...'
 p3421
 ssS'5.2'
 p3422
@@ -9078,7 +9078,7 @@ p3422
 g8
 I01
 sg9
-S'<Sent id="5.2"'
+S'if its in germany those that want to attend both meetings get a weekend in Heidelburg.'
 p3424
 ssS'3.15'
 p3425
@@ -9086,7 +9086,7 @@ p3425
 g8
 I00
 sg9
-S'<Sent id="3.15"'
+S'&gt;&gt; _________________________________________________________________'
 p3427
 ssS'5.12'
 p3428
@@ -9102,7 +9102,7 @@ p3431
 g8
 I00
 sg9
-S'<Sent id="5.10"'
+S'&gt;&gt; Can people check their diaries for these dates and inform the chairs asap.'
 p3433
 ssS'5.3'
 p3434
@@ -9110,7 +9110,7 @@ p3434
 g8
 I01
 sg9
-S'<Sent id="5.3"'
+S"If BPEl decides to meet in Seattle I'm not sure many would have such a weekend stayover."
 p3436
 ssS'4.1'
 p3437
@@ -9126,7 +9126,7 @@ p3440
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'&gt;&gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.'
 p3442
 ssS'3.18'
 p3443
@@ -9134,7 +9134,7 @@ p3443
 g8
 I00
 sg9
-S'<Sent id="3.18"'
+S'&gt;&gt; Oracle Redwood Shores,'
 p3445
 ssS'4.3'
 p3446
@@ -9142,7 +9142,7 @@ p3446
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'&gt; Can people check their diaries for these dates and inform the chairs asap.'
 p3448
 ssS'5.5'
 p3449
@@ -9150,7 +9150,7 @@ p3449
 g8
 I01
 sg9
-S'<Sent id="5.5"'
+S"You see where I'm going with this!"
 p3451
 ssS'4.2'
 p3452
@@ -9158,7 +9158,7 @@ p3452
 g8
 I00
 sg9
-S'<Sent id="4.2"'
+S'&gt; Thus it makes sense to try and meet on 15, 16, and 17 (Morning) September.'
 p3454
 ssS'3.4'
 p3455
@@ -9166,7 +9166,7 @@ p3455
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'&gt; On Friday, May 30, 2003, at 09:13 AM, Martin Chapman wrote:'
 p3457
 ssS'5.8'
 p3458
@@ -9182,7 +9182,7 @@ p3461
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'&gt;&gt; We are trying to do advanced planning for a F2F in September.'
 p3463
 ssssS'074-6324762'
 p3464
@@ -10741,7 +10741,7 @@ p4049
 g8
 I01
 sg9
-S'<Sent id="9.4"'
+S'The problem is that when they do this and get a large response to a particular NPRM, they (the government) is obligated to read each and every one of the'
 p4051
 ssS'9.5'
 p4052
@@ -16082,7 +16082,7 @@ p6062
 g8
 I01
 sg9
-S'<Sent id="1.4"'
+S'DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS'
 p6064
 ssS'1.5'
 p6065
@@ -16090,7 +16090,7 @@ p6065
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S'Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include.'
 p6067
 ssS'1.6'
 p6068
@@ -16098,7 +16098,7 @@ p6068
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'john russell VE3LL@RAC.CA'
 p6070
 ssS'1.7'
 p6071
@@ -16114,7 +16114,7 @@ p6074
 g8
 I00
 sg9
-S'<Sent id="4.15"'
+S'It does allow you to disable any style sheet attached to a document, which is a handy feature.'
 p6076
 ssS'1.1'
 p6077
@@ -16122,7 +16122,7 @@ p6077
 g8
 I00
 sg9
-S'<Sent id="1.1"'
+S'Many web authors make poor colour choices.'
 p6079
 ssS'1.2'
 p6080
@@ -16146,7 +16146,7 @@ p6086
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'&gt;&gt; john russell VE3LL@RAC.CA'
 p6088
 ssS'3.11'
 p6089
@@ -16154,7 +16154,7 @@ p6089
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'&gt;&gt; homepage: http://web.cgocable.net/~jrussel'
 p6091
 ssS'3.12'
 p6092
@@ -16162,7 +16162,7 @@ p6092
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'&gt; Irene.'
 p6094
 ssS'3.13'
 p6095
@@ -16170,7 +16170,7 @@ p6095
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'--Charles McCathieNevile mailto:charles@w3.org'
 p6097
 ssS'3.14'
 p6098
@@ -16178,7 +16178,7 @@ p6098
 g8
 I00
 sg9
-S'<Sent id="3.14"'
+S'phone: +1 617 258 0992 http://www.w3.org/People/Charles'
 p6100
 ssS'3.15'
 p6101
@@ -16186,7 +16186,7 @@ p6101
 g8
 I00
 sg9
-S'<Sent id="3.15"'
+S'W3C Web Accessibility Initiative http://www.w3.org/WAI'
 p6103
 ssS'3.16'
 p6104
@@ -16210,7 +16210,7 @@ p6110
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'&gt;&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS'
 p6112
 ssS'3.4'
 p6113
@@ -16218,7 +16218,7 @@ p6113
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'&gt;&gt; Many web authors make poor colour choices.'
 p6115
 ssS'3.5'
 p6116
@@ -16234,7 +16234,7 @@ p6119
 g8
 I01
 sg9
-S'<Sent id="3.2"'
+S'you could create your own local stylesheet, and make !imprtant declarations for colours.'
 p6121
 ssS'3.3'
 p6122
@@ -16242,7 +16242,7 @@ p6122
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'Charles McCN'
 p6124
 ssS'3.1'
 p6125
@@ -16250,7 +16250,7 @@ p6125
 g8
 I00
 sg9
-S'<Sent id="3.1"'
+S'John,'
 p6127
 ssS'2.3'
 p6128
@@ -16274,7 +16274,7 @@ p6134
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'&gt; Many web authors make poor colour choices.'
 p6136
 ssS'4.30'
 p6137
@@ -16290,7 +16290,7 @@ p6140
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'&gt; john russell VE3LL@RAC.CA'
 p6142
 ssS'2.6'
 p6143
@@ -16298,7 +16298,7 @@ p6143
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include.'
 p6145
 ssS'2.5'
 p6146
@@ -16306,7 +16306,7 @@ p6146
 g8
 I01
 sg9
-S'<Sent id="2.5"'
+S'Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color.'
 p6148
 ssS'2.4'
 p6149
@@ -16314,7 +16314,7 @@ p6149
 g8
 I00
 sg9
-S'<Sent id="2.4"'
+S'&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS'
 p6151
 ssS'4.5'
 p6152
@@ -16322,7 +16322,7 @@ p6152
 g8
 I00
 sg9
-S'<Sent id="4.5"'
+S'To set several properties at the same time, use a semi-colon between each declaration, inside the same set of curly brackets.'
 p6154
 ssS'4.4'
 p6155
@@ -16330,7 +16330,7 @@ p6155
 g8
 I00
 sg9
-S'<Sent id="4.4"'
+S'BODY { font-size: 24pt }'
 p6157
 ssS'4.7'
 p6158
@@ -16338,7 +16338,7 @@ p6158
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'H1 { font-size: 180% ; font-weight: bold ; line-height: 1.5em }'
 p6160
 ssS'4.6'
 p6161
@@ -16346,7 +16346,7 @@ p6161
 g8
 I00
 sg9
-S'<Sent id="4.6"'
+S'example:'
 p6163
 ssS'4.1'
 p6164
@@ -16354,7 +16354,7 @@ p6164
 g8
 I01
 sg9
-S'<Sent id="4.1"'
+S"charles' 5 line CSS tutorial..."
 p6166
 ssS'4.17'
 p6167
@@ -16362,7 +16362,7 @@ p6167
 g8
 I00
 sg9
-S'<Sent id="4.17"'
+S'Charles McCN'
 p6169
 ssS'4.3'
 p6170
@@ -16370,7 +16370,7 @@ p6170
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'example:'
 p6172
 ssS'4.2'
 p6173
@@ -16378,7 +16378,7 @@ p6173
 g8
 I01
 sg9
-S'<Sent id="4.2"'
+S'to give a style to an element you list the element (called a selector in technical CSS writing), then in curly brackets you put the style feature you want to declare, a colon, and the value you want for that property.'
 p6175
 ssS'4.37'
 p6176
@@ -16386,7 +16386,7 @@ p6176
 g8
 I00
 sg9
-S'<Sent id="4.37"'
+S'john russell VE3LL@RAC.CA'
 p6178
 ssS'4.16'
 p6179
@@ -16394,7 +16394,7 @@ p6179
 g8
 I00
 sg9
-S'<Sent id="4.16"'
+S'Cheers'
 p6181
 ssS'4.9'
 p6182
@@ -16402,7 +16402,7 @@ p6182
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'example:'
 p6184
 ssS'4.8'
 p6185
@@ -16410,7 +16410,7 @@ p6185
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'To make your statements override the ones that an author uses, add !important after each property declaration'
 p6187
 ssS'4.36'
 p6188
@@ -16418,7 +16418,7 @@ p6188
 g8
 I00
 sg9
-S'<Sent id="4.36"'
+S'-- one by que fails....'
 p6190
 ssS'5.6'
 p6191
@@ -16434,7 +16434,7 @@ p6194
 g8
 I00
 sg9
-S'<Sent id="4.19"'
+S'&gt;&gt; Many web authors make poor colour choices.'
 p6196
 ssS'4.39'
 p6197
@@ -16442,7 +16442,7 @@ p6197
 g8
 I00
 sg9
-S'<Sent id="4.39"'
+S'--Charles McCathieNevile mailto:charles@w3.org'
 p6199
 ssS'3.8'
 p6200
@@ -16450,7 +16450,7 @@ p6200
 g8
 I00
 sg9
-S'<Sent id="3.8"'
+S'&gt; Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color.'
 p6202
 ssS'4.18'
 p6203
@@ -16458,7 +16458,7 @@ p6203
 g8
 I00
 sg9
-S'<Sent id="4.18"'
+S'On Mon, 16 Aug 1999, John Russell wrote:'
 p6205
 ssS'4.34'
 p6206
@@ -16474,7 +16474,7 @@ p6209
 g8
 I00
 sg9
-S'<Sent id="4.11"'
+S'NOTE: You should not do this in stylesheets that you publish, only your local stylesheet for reading, until the CSS2 cascade order is widely implemented.'
 p6211
 ssS'3.9'
 p6212
@@ -16482,7 +16482,7 @@ p6212
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'&gt;&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include.'
 p6214
 ssS'5.3'
 p6215
@@ -16514,7 +16514,7 @@ p6224
 g8
 I00
 sg9
-S'<Sent id="4.38"'
+S'homepage: http://web.cgocable.net/~jrussel'
 p6226
 ssS'5.2'
 p6227
@@ -16522,7 +16522,7 @@ p6227
 g8
 I00
 sg9
-S'<Sent id="5.2"'
+S'&gt; If not, then an author who has published a style sheet with !important will override yours. (sigh)'
 p6229
 ssS'4.14'
 p6230
@@ -16546,7 +16546,7 @@ p6236
 g8
 I00
 sg9
-S'<Sent id="4.40"'
+S'phone: +1 617 258 0992 http://www.w3.org/People/Charles'
 p6238
 ssS'4.35'
 p6239
@@ -16578,7 +16578,7 @@ p6248
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'P { font-size: 12pt !important ; line-height: 2em !important }'
 p6250
 ssS'4.21'
 p6251
@@ -16594,7 +16594,7 @@ p6254
 g8
 I00
 sg9
-S'<Sent id="4.22"'
+S'&gt;&gt; DOES AMAYA ALLOW THE VIEWER TO OVERRIDE SETTING MADE INSIDE THE HTML DOCUMENTS'
 p6256
 ssS'4.23'
 p6257
@@ -16602,7 +16602,7 @@ p6257
 g8
 I00
 sg9
-S'<Sent id="4.23"'
+S'&gt;&gt; Being slightly blue/green impaired myself, I view this as an important accessibility feature that all browsers, including Amaya should include.'
 p6259
 ssS'4.24'
 p6260
@@ -16610,7 +16610,7 @@ p6260
 g8
 I00
 sg9
-S'<Sent id="4.24"'
+S'&gt; Not exactly, but Amaya is an editor and you can easily change or remove the background/foreground color.'
 p6262
 ssS'4.25'
 p6263
@@ -16618,7 +16618,7 @@ p6263
 g8
 I00
 sg9
-S'<Sent id="4.25"'
+S'&gt; --Charles McCathieNevile mailto:charles@w3.org'
 p6265
 ssS'4.26'
 p6266
@@ -16626,7 +16626,7 @@ p6266
 g8
 I00
 sg9
-S'<Sent id="4.26"'
+S'&gt; you can use stylesheets'
 p6268
 ssS'4.27'
 p6269
@@ -16666,7 +16666,7 @@ p6281
 g8
 I01
 sg9
-S'<Sent id="5.5"'
+S"Amaya doesn't take !important flag into account yet"
 p6283
 ssS'2.9'
 p6284
@@ -16682,7 +16682,7 @@ p6287
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&gt; homepage: http://web.cgocable.net/~jrussel'
 p6289
 ssS'5.4'
 p6290
@@ -16690,7 +16690,7 @@ p6290
 g8
 I00
 sg9
-S'<Sent id="5.4"'
+S'&gt; It does allow you to disable any style sheet attached to a document, which is a handy feature.'
 p6292
 ssS'4.13'
 p6293
@@ -16698,7 +16698,7 @@ p6293
 g8
 I00
 sg9
-S'<Sent id="4.13"'
+S'If not, then an author who has published a style sheet with !important will override yours. (sigh)'
 p6295
 ssS'4.31'
 p6296
@@ -16714,7 +16714,7 @@ p6299
 g8
 I00
 sg9
-S'<Sent id="4.41"'
+S'W3C Web Accessibility Initiative http://www.w3.org/WAI'
 p6301
 ssssS'071-10334272'
 p6302
@@ -16727,7 +16727,7 @@ p6305
 g8
 I00
 sg9
-S'<Sent id="1.4"'
+S'Thanks for any information.'
 p6307
 ssS'1.5'
 p6308
@@ -16735,7 +16735,7 @@ p6308
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S'Doyle'
 p6310
 ssS'1.6'
 p6311
@@ -16743,7 +16743,7 @@ p6311
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'Doyle Burnett'
 p6313
 ssS'1.7'
 p6314
@@ -16751,7 +16751,7 @@ p6314
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'Education and Training Specialist'
 p6316
 ssS'4.15'
 p6317
@@ -16759,7 +16759,7 @@ p6317
 g8
 I00
 sg9
-S'<Sent id="4.15"'
+S'&gt;&gt; Education and Training Specialist'
 p6319
 ssS'1.1'
 p6320
@@ -16775,7 +16775,7 @@ p6323
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.'
 p6325
 ssS'1.3'
 p6326
@@ -16783,7 +16783,7 @@ p6326
 g8
 I01
 sg9
-S'<Sent id="1.3"'
+S'Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?'
 p6328
 ssS'3.10'
 p6329
@@ -16791,7 +16791,7 @@ p6329
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'&gt;&gt; Doyle'
 p6331
 ssS'3.11'
 p6332
@@ -16799,7 +16799,7 @@ p6332
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'&gt;&gt; Doyle Burnett'
 p6334
 ssS'3.12'
 p6335
@@ -16807,7 +16807,7 @@ p6335
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'&gt;&gt; Education and Training Specialist'
 p6337
 ssS'3.13'
 p6338
@@ -16815,7 +16815,7 @@ p6338
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'&gt;&gt; Multiple Disabilities Program'
 p6340
 ssS'1.8'
 p6341
@@ -16823,7 +16823,7 @@ p6341
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'Multiple Disabilities Program'
 p6343
 ssS'1.9'
 p6344
@@ -16831,7 +16831,7 @@ p6344
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Special Education Service Agency'
 p6346
 ssS'3.16'
 p6347
@@ -16839,7 +16839,7 @@ p6347
 g8
 I00
 sg9
-S'<Sent id="3.16"'
+S'&gt;&gt; Www.sesa.org'
 p6349
 ssS'3.17'
 p6350
@@ -16863,7 +16863,7 @@ p6356
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'&gt;&gt; In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.'
 p6358
 ssS'2.9'
 p6359
@@ -16871,7 +16871,7 @@ p6359
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'&gt; Doyle Burnett'
 p6361
 ssS'2.8'
 p6362
@@ -16879,7 +16879,7 @@ p6362
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&gt; Doyle'
 p6364
 ssS'3.2'
 p6365
@@ -16887,7 +16887,7 @@ p6365
 g8
 I01
 sg9
-S'<Sent id="3.2"'
+S'it is available in both Acrobat 6.0 Professional and Acrobat 6.0 Standard, for the Mac and Windows.'
 p6367
 ssS'3.3'
 p6368
@@ -16895,7 +16895,7 @@ p6368
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'&gt; Doyle,'
 p6370
 ssS'3.1'
 p6371
@@ -16911,7 +16911,7 @@ p6374
 g8
 I00
 sg9
-S'<Sent id="2.3"'
+S'Loretta'
 p6376
 ssS'2.2'
 p6377
@@ -16919,7 +16919,7 @@ p6377
 g8
 I01
 sg9
-S'<Sent id="2.2"'
+S'The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.'
 p6379
 ssS'2.1'
 p6380
@@ -16927,7 +16927,7 @@ p6380
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'Doyle,'
 p6382
 ssS'2.7'
 p6383
@@ -16935,7 +16935,7 @@ p6383
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'&gt; Thanks for any information.'
 p6385
 ssS'2.6'
 p6386
@@ -16943,7 +16943,7 @@ p6386
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'&gt; Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?'
 p6388
 ssS'2.5'
 p6389
@@ -16951,7 +16951,7 @@ p6389
 g8
 I00
 sg9
-S'<Sent id="2.5"'
+S'&gt; In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.'
 p6391
 ssS'2.4'
 p6392
@@ -16967,7 +16967,7 @@ p6395
 g8
 I00
 sg9
-S'<Sent id="4.5"'
+S'Sailesh'
 p6397
 ssS'4.4'
 p6398
@@ -16983,7 +16983,7 @@ p6401
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'&gt; The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.'
 p6403
 ssS'4.6'
 p6404
@@ -16991,7 +16991,7 @@ p6404
 g8
 I00
 sg9
-S'<Sent id="4.6"'
+S'&gt; Doyle,'
 p6406
 ssS'1.12'
 p6407
@@ -17007,7 +17007,7 @@ p6410
 g8
 I00
 sg9
-S'<Sent id="4.17"'
+S'&gt;&gt; Special Education Service Agency'
 p6412
 ssS'1.10'
 p6413
@@ -17015,7 +17015,7 @@ p6413
 g8
 I00
 sg9
-S'<Sent id="1.10"'
+S'dburnett@sesa.org'
 p6415
 ssS'1.11'
 p6416
@@ -17023,7 +17023,7 @@ p6416
 g8
 I00
 sg9
-S'<Sent id="1.11"'
+S'Www.sesa.org'
 p6418
 ssS'5.8'
 p6419
@@ -17039,7 +17039,7 @@ p6422
 g8
 I01
 sg9
-S'<Sent id="5.9"'
+S'This can make loading an untagged PDF considerably slower than loading a tagged PDF, but makes it possible, for example, to read tables even in an untagged PDF.'
 p6424
 ssS'4.16'
 p6425
@@ -17047,7 +17047,7 @@ p6425
 g8
 I00
 sg9
-S'<Sent id="4.16"'
+S'&gt;&gt; Multiple Disabilities Program'
 p6427
 ssS'4.9'
 p6428
@@ -17063,7 +17063,7 @@ p6431
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'&gt; Loretta'
 p6433
 ssS'5.6'
 p6434
@@ -17079,7 +17079,7 @@ p6437
 g8
 I00
 sg9
-S'<Sent id="4.19"'
+S'&gt;&gt; Www.sesa.org'
 p6439
 ssS'3.8'
 p6440
@@ -17087,7 +17087,7 @@ p6440
 g8
 I00
 sg9
-S'<Sent id="3.8"'
+S'&gt;&gt; Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?'
 p6442
 ssS'5.7'
 p6443
@@ -17095,7 +17095,7 @@ p6443
 g8
 I01
 sg9
-S'<Sent id="5.7"'
+S'In Acrobat 6, it is available for both Mac and Windows.'
 p6445
 ssS'4.18'
 p6446
@@ -17103,7 +17103,7 @@ p6446
 g8
 I00
 sg9
-S'<Sent id="4.18"'
+S'&gt;&gt; dburnett@sesa.org'
 p6448
 ssS'2.15'
 p6449
@@ -17119,7 +17119,7 @@ p6452
 g8
 I00
 sg9
-S'<Sent id="2.14"'
+S'&gt; Www.sesa.org'
 p6454
 ssS'2.13'
 p6455
@@ -17127,7 +17127,7 @@ p6455
 g8
 I00
 sg9
-S'<Sent id="2.13"'
+S'&gt; dburnett@sesa.org'
 p6457
 ssS'2.12'
 p6458
@@ -17135,7 +17135,7 @@ p6458
 g8
 I00
 sg9
-S'<Sent id="2.12"'
+S'&gt; Special Education Service Agency'
 p6460
 ssS'2.11'
 p6461
@@ -17143,7 +17143,7 @@ p6461
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S'&gt; Multiple Disabilities Program'
 p6463
 ssS'2.10'
 p6464
@@ -17151,7 +17151,7 @@ p6464
 g8
 I00
 sg9
-S'<Sent id="2.10"'
+S'&gt; Education and Training Specialist'
 p6466
 ssS'5.1'
 p6467
@@ -17159,7 +17159,7 @@ p6467
 g8
 I00
 sg9
-S'<Sent id="5.1"'
+S'Sailesh,'
 p6469
 ssS'3.14'
 p6470
@@ -17167,7 +17167,7 @@ p6470
 g8
 I00
 sg9
-S'<Sent id="3.14"'
+S'&gt;&gt; Special Education Service Agency'
 p6472
 ssS'5.4'
 p6473
@@ -17191,7 +17191,7 @@ p6479
 g8
 I00
 sg9
-S'<Sent id="3.15"'
+S'&gt;&gt; dburnett@sesa.org'
 p6481
 ssS'4.14'
 p6482
@@ -17199,7 +17199,7 @@ p6482
 g8
 I00
 sg9
-S'<Sent id="4.14"'
+S'&gt;&gt; Doyle Burnett'
 p6484
 ssS'5.10'
 p6485
@@ -17231,7 +17231,7 @@ p6494
 g8
 I00
 sg9
-S'<Sent id="4.12"'
+S'&gt;&gt; Thanks for any information.'
 p6496
 ssS'4.10'
 p6497
@@ -17239,7 +17239,7 @@ p6497
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'&gt;&gt; In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh.'
 p6499
 ssS'4.1'
 p6500
@@ -17247,7 +17247,7 @@ p6500
 g8
 I00
 sg9
-S'<Sent id="4.1"'
+S'Hello Loretta/Doyle,'
 p6502
 ssS'3.9'
 p6503
@@ -17255,7 +17255,7 @@ p6503
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'&gt;&gt; Thanks for any information.'
 p6505
 ssS'5.5'
 p6506
@@ -17263,7 +17263,7 @@ p6506
 g8
 I01
 sg9
-S'<Sent id="5.5"'
+S'Like OCR technology, it is imperfect, and the results should be reviewed and corrected, if necessary, by the author.'
 p6508
 ssS'4.3'
 p6509
@@ -17287,7 +17287,7 @@ p6515
 g8
 I01
 sg9
-S'<Sent id="3.4"'
+S'&gt; The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows.'
 p6517
 ssS'3.5'
 p6518
@@ -17295,7 +17295,7 @@ p6518
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'&gt; Loretta'
 p6520
 ssS'4.11'
 p6521
@@ -17303,7 +17303,7 @@ p6521
 g8
 I00
 sg9
-S'<Sent id="4.11"'
+S'&gt;&gt; Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)?'
 p6523
 ssS'4.13'
 p6524
@@ -17311,7 +17311,7 @@ p6524
 g8
 I00
 sg9
-S'<Sent id="4.13"'
+S'&gt;&gt; Doyle'
 p6526
 ssssS'007-7484738'
 p6527
@@ -17332,7 +17332,7 @@ p6533
 g8
 I01
 sg9
-S'<Sent id="1.5"'
+S'The Friday of the first week could discuss applications issues which might be of special interest to the other areas, and the Monday of the second week would schedule other groups which might be of special interest to applications people, so some people could attend Monday-Monday or Friday-Friday.'
 p6535
 ssS'1.6'
 p6536
@@ -17340,7 +17340,7 @@ p6536
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'------------------------------------------------------------------------'
 p6538
 ssS'1.7'
 p6539
@@ -17348,7 +17348,7 @@ p6539
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'Jacob Palme &amp;lt;jpalme@dsv.su.se&amp;gt; (Stockholm University and KTH)'
 p6541
 ssS'1.1'
 p6542
@@ -17404,7 +17404,7 @@ p6560
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'http://www.sonic.net/~tallen/'
 p6562
 ssS'2.8'
 p6563
@@ -17412,7 +17412,7 @@ p6563
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'tallen[at]sonic.net'
 p6565
 ssS'3.2'
 p6566
@@ -17436,7 +17436,7 @@ p6572
 g8
 I00
 sg9
-S'<Sent id="3.1"'
+S'Terry,'
 p6574
 ssS'2.3'
 p6575
@@ -17460,7 +17460,7 @@ p6581
 g8
 I01
 sg9
-S'<Sent id="2.1"'
+S'&gt; The IETF meetings tend to become too large, creating logistics and planning problems. ...'
 p6583
 ssS'2.7'
 p6584
@@ -17468,7 +17468,7 @@ p6584
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'Terry Allen Electronic Commerce and Publishing Consultant'
 p6586
 ssS'2.6'
 p6587
@@ -17476,7 +17476,7 @@ p6587
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'regards, Terry'
 p6589
 ssS'2.5'
 p6590
@@ -17484,7 +17484,7 @@ p6590
 g8
 I01
 sg9
-S'<Sent id="2.5"'
+S'But firmer scheduling would be a big win.'
 p6592
 ssS'2.4'
 p6593
@@ -17492,7 +17492,7 @@ p6593
 g8
 I01
 sg9
-S'<Sent id="2.4"'
+S'And I am hopeful that new activities (my own and in the IETF) will give me many more reasons to attend.'
 p6595
 ssS'4.5'
 p6596
@@ -17508,7 +17508,7 @@ p6599
 g8
 I01
 sg9
-S'<Sent id="4.4"'
+S'This would mean that the apps area schedule should be set tentatively 30-35 days in advance, so that the draft IETF schedule could be published and conflicts reviewed.'
 p6601
 ssS'5.2'
 p6602
@@ -17516,7 +17516,7 @@ p6602
 g8
 I00
 sg9
-S'<Sent id="5.2"'
+S'&gt; This would mean that the apps area schedule should be set tentatively 30-35 days in advance, so that the draft IETF schedule could be published and conflicts reviewed.'
 p6604
 ssS'5.3'
 p6605
@@ -17540,7 +17540,7 @@ p6611
 g8
 I01
 sg9
-S'<Sent id="5.5"'
+S'The advance notice helps reduce travel costs, which in turn helps more people attend.'
 p6613
 ssS'4.3'
 p6614
@@ -17556,7 +17556,7 @@ p6617
 g8
 I01
 sg9
-S'<Sent id="4.2"'
+S'This leads me to believe that we could create the IETF schedule earlier without causing significant pain.'
 p6619
 ssS'5.8'
 p6620
@@ -17564,7 +17564,7 @@ p6620
 g8
 I00
 sg9
-S'<Sent id="5.8"'
+S'Shockey Consulting LLC'
 p6622
 ssS'5.9'
 p6623
@@ -17572,7 +17572,7 @@ p6623
 g8
 I00
 sg9
-S'<Sent id="5.9"'
+S'8045 Big Bend Blvd. Suite 110'
 p6625
 ssS'3.8'
 p6626
@@ -17580,7 +17580,7 @@ p6626
 g8
 I01
 sg9
-S'<Sent id="3.8"'
+S'Spreading it thinner would be awful.'
 p6628
 ssS'3.9'
 p6629
@@ -17604,7 +17604,7 @@ p6635
 g8
 I00
 sg9
-S'<Sent id="2.10"'
+S'DocBook: http://www.ora.com/davenport/index.html'
 p6637
 ssS'5.1'
 p6638
@@ -17620,7 +17620,7 @@ p6641
 g8
 I00
 sg9
-S'<Sent id="5.12"'
+S'Fax 314.918.9015'
 p6643
 ssS'5.13'
 p6644
@@ -17636,7 +17636,7 @@ p6647
 g8
 I00
 sg9
-S'<Sent id="5.10"'
+S'St. Louis, MO 63119'
 p6649
 ssS'5.11'
 p6650
@@ -17644,7 +17644,7 @@ p6650
 g8
 I00
 sg9
-S'<Sent id="5.11"'
+S'Voice 314.918.9020'
 p6652
 ssS'5.4'
 p6653
@@ -17660,7 +17660,7 @@ p6656
 g8
 I01
 sg9
-S'<Sent id="5.6"'
+S'It would make my life easier.'
 p6658
 ssS'5.7'
 p6659
@@ -17668,7 +17668,7 @@ p6659
 g8
 I00
 sg9
-S'<Sent id="5.7"'
+S'Richard Shockey'
 p6661
 ssS'3.4'
 p6662
@@ -17676,7 +17676,7 @@ p6662
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'Obviously, everybody knows they need to be minimised.'
 p6664
 ssS'3.5'
 p6665
@@ -17684,7 +17684,7 @@ p6665
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'Jacob,'
 p6667
 ssssS'077-4500595'
 p6668
@@ -18142,7 +18142,7 @@ p6839
 g8
 I00
 sg9
-S'<Sent id="7.14"'
+S'&gt;&gt; Only if we can go to a certain shop, Barb knows what I am talking about :-)'
 p6841
 ssS'7.15'
 p6842
@@ -18150,7 +18150,7 @@ p6842
 g8
 I00
 sg9
-S'<Sent id="7.15"'
+S'&gt;&gt; Peter'
 p6844
 ssS'7.16'
 p6845
@@ -18158,7 +18158,7 @@ p6845
 g8
 I00
 sg9
-S'<Sent id="7.16"'
+S'&gt;&gt; ---------------------------------'
 p6847
 ssS'7.17'
 p6848
@@ -18166,7 +18166,7 @@ p6848
 g8
 I00
 sg9
-S'<Sent id="7.17"'
+S'&gt;&gt; Dr. Peter Lipp'
 p6850
 ssS'7.10'
 p6851
@@ -18174,7 +18174,7 @@ p6851
 g8
 I00
 sg9
-S'<Sent id="7.10"'
+S"&gt; I'll check into that Peter : - )"
 p6853
 ssS'7.11'
 p6854
@@ -18182,7 +18182,7 @@ p6854
 g8
 I00
 sg9
-S'<Sent id="7.11"'
+S'&gt; --Barb'
 p6856
 ssS'7.12'
 p6857
@@ -18190,7 +18190,7 @@ p6857
 g8
 I00
 sg9
-S'<Sent id="7.12"'
+S'&gt; -----Original Message-----'
 p6859
 ssS'7.13'
 p6860
@@ -18198,7 +18198,7 @@ p6860
 g8
 I00
 sg9
-S'<Sent id="7.13"'
+S'&gt;&gt;&gt; Has the decision been made, or should I express my preference for Seattle?'
 p6862
 ssS'7.18'
 p6863
@@ -18206,7 +18206,7 @@ p6863
 g8
 I00
 sg9
-S'<Sent id="7.18"'
+S'&gt;&gt; IAIK, TU Graz'
 p6865
 ssS'7.19'
 p6866
@@ -18214,7 +18214,7 @@ p6866
 g8
 I00
 sg9
-S'<Sent id="7.19"'
+S'&gt;&gt; Email Peter.Lipp@iaik.at'
 p6868
 ssS'6.7'
 p6869
@@ -18222,7 +18222,7 @@ p6869
 g8
 I00
 sg9
-S'<Sent id="6.7"'
+S'dee3@us.ibm.com tel: 1-914-784-7913, fax: 1-914-784-3833'
 p6871
 ssS'6.6'
 p6872
@@ -18230,7 +18230,7 @@ p6872
 g8
 I00
 sg9
-S'<Sent id="6.6"'
+S'17 Skyline Drive, Hawthorne, NY 10532 USA'
 p6874
 ssS'6.5'
 p6875
@@ -18238,7 +18238,7 @@ p6875
 g8
 I00
 sg9
-S'<Sent id="6.5"'
+S'Donald E. Eastlake, 3rd'
 p6877
 ssS'6.4'
 p6878
@@ -18246,7 +18246,7 @@ p6878
 g8
 I00
 sg9
-S'<Sent id="6.4"'
+S'Donald'
 p6880
 ssS'6.3'
 p6881
@@ -18254,7 +18254,7 @@ p6881
 g8
 I01
 sg9
-S'<Sent id="6.3"'
+S'Assuming this is true, I think we have to go with the UC Irvine location unless we want to postpone the meeting....'
 p6883
 ssS'6.2'
 p6884
@@ -18278,7 +18278,7 @@ p6890
 g8
 I01
 sg9
-S'<Sent id="7.5"'
+S"A number of us have personal experience of the Edgewater's facilities from one of last year's ISC Meetings we had there."
 p6892
 ssS'8.15'
 p6893
@@ -18286,7 +18286,7 @@ p6893
 g8
 I00
 sg9
-S'<Sent id="8.15"'
+S'&gt;&gt; -----Original Message-----'
 p6895
 ssS'8.14'
 p6896
@@ -18294,7 +18294,7 @@ p6896
 g8
 I00
 sg9
-S'<Sent id="8.14"'
+S'&gt;&gt; --Barb'
 p6898
 ssS'7.8'
 p6899
@@ -18302,7 +18302,7 @@ p6899
 g8
 I00
 sg9
-S'<Sent id="7.8"'
+S'Todd'
 p6901
 ssS'7.9'
 p6902
@@ -18310,7 +18310,7 @@ p6902
 g8
 I00
 sg9
-S'<Sent id="7.9"'
+S'----- Original Message -----'
 p6904
 ssS'8.11'
 p6905
@@ -18318,7 +18318,7 @@ p6905
 g8
 I00
 sg9
-S'<Sent id="8.11"'
+S'&gt; Todd'
 p6907
 ssS'8.10'
 p6908
@@ -18326,7 +18326,7 @@ p6908
 g8
 I00
 sg9
-S'<Sent id="8.10"'
+S'&gt; Otherwise, by my vote - Sourthern California is fine by me.'
 p6910
 ssS'6.9'
 p6911
@@ -18334,7 +18334,7 @@ p6911
 g8
 I00
 sg9
-S'<Sent id="6.9"'
+S'&gt; Has the decision been made, or should I express my preference for Seattle? :)'
 p6913
 ssS'6.8'
 p6914
@@ -18342,7 +18342,7 @@ p6914
 g8
 I00
 sg9
-S'<Sent id="6.8"'
+S'home: 65 Shindegan Hill Road, RR#1, Carmel, NY 10512 USA'
 p6916
 ssS'2.14'
 p6917
@@ -18358,7 +18358,7 @@ p6920
 g8
 I00
 sg9
-S'<Sent id="2.13"'
+S'&gt; 65 Shindegan Hill Road, RR#1 +1 914-784-7913(work) dee3@us.ibm.com'
 p6922
 ssS'2.12'
 p6923
@@ -18366,7 +18366,7 @@ p6923
 g8
 I00
 sg9
-S'<Sent id="2.12"'
+S'&gt; Donald E. Eastlake 3rd +1 914-276-2668 dee3@torque.pothole.com'
 p6925
 ssS'2.11'
 p6926
@@ -18374,7 +18374,7 @@ p6926
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S'&gt; ====================================================================='
 p6928
 ssS'2.10'
 p6929
@@ -18382,7 +18382,7 @@ p6929
 g8
 I00
 sg9
-S'<Sent id="2.10"'
+S'&gt; Donald'
 p6931
 ssS'8.17'
 p6932
@@ -18390,7 +18390,7 @@ p6932
 g8
 I00
 sg9
-S'<Sent id="8.17"'
+S'&gt;&gt;&gt; Only if we can go to a certain shop, Barb knows what I am talking about :-)'
 p6934
 ssS'7.2'
 p6935
@@ -18398,7 +18398,7 @@ p6935
 g8
 I01
 sg9
-S'<Sent id="7.2"'
+S'Staging in Seattle saves the bulk of us the drive out to Redmond.'
 p6937
 ssS'7.3'
 p6938
@@ -18422,7 +18422,7 @@ p6944
 g8
 I01
 sg9
-S'<Sent id="7.6"'
+S'Very good site and lots of reasoably priced facilities in the area and Pikes Market Arcade Area is a hop, skip, and a jump away.'
 p6946
 ssS'7.7'
 p6947
@@ -18430,7 +18430,7 @@ p6947
 g8
 I01
 sg9
-S'<Sent id="7.7"'
+S'Otherwise, by my vote - Sourthern California is fine by me.'
 p6949
 ssS'4.11'
 p6950
@@ -18446,7 +18446,7 @@ p6953
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'Web http://jcewww.iaik.tu-graz.ac.at'
 p6955
 ssS'7.4'
 p6956
@@ -18470,7 +18470,7 @@ p6962
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'&gt;&gt; Further logistic information will be posted as soon as it is available.'
 p6964
 ssS'3.12'
 p6965
@@ -18478,7 +18478,7 @@ p6965
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'&gt;&gt; Thanks,'
 p6967
 ssS'3.13'
 p6968
@@ -18486,7 +18486,7 @@ p6968
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'&gt;&gt; Donald'
 p6970
 ssS'3.14'
 p6971
@@ -18494,7 +18494,7 @@ p6971
 g8
 I00
 sg9
-S'<Sent id="3.14"'
+S'&gt;&gt; ====================================================================='
 p6973
 ssS'3.15'
 p6974
@@ -18502,7 +18502,7 @@ p6974
 g8
 I00
 sg9
-S'<Sent id="3.15"'
+S'&gt;&gt; Donald E. Eastlake 3rd +1 914-276-2668 dee3@torque.pothole.com'
 p6976
 ssS'3.16'
 p6977
@@ -18510,7 +18510,7 @@ p6977
 g8
 I00
 sg9
-S'<Sent id="3.16"'
+S'&gt;&gt; 65 Shindegan Hill Road, RR#1 +1 914-784-7913(work) dee3@us.ibm.com'
 p6979
 ssS'3.17'
 p6980
@@ -18534,7 +18534,7 @@ p6986
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'&gt; Either location is OK with me btw.'
 p6988
 ssS'2.9'
 p6989
@@ -18542,7 +18542,7 @@ p6989
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'&gt; Thanks,'
 p6991
 ssS'2.8'
 p6992
@@ -18550,7 +18550,7 @@ p6992
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&gt; Further logistic information will be posted as soon as it is available.'
 p6994
 ssS'3.2'
 p6995
@@ -18558,7 +18558,7 @@ p6995
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'-Mark'
 p6997
 ssS'3.3'
 p6998
@@ -18566,7 +18566,7 @@ p6998
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'-----Original Message-----'
 p7000
 ssS'3.1'
 p7001
@@ -18574,7 +18574,7 @@ p7001
 g8
 I01
 sg9
-S'<Sent id="3.1"'
+S'Has the decision been made, or should I express my preference for Seattle? :)'
 p7003
 ssS'2.3'
 p7004
@@ -18614,7 +18614,7 @@ p7016
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'-----Original Message-----'
 p7018
 ssS'2.5'
 p7019
@@ -18622,7 +18622,7 @@ p7019
 g8
 I00
 sg9
-S'<Sent id="2.5"'
+S'--Barb'
 p7021
 ssS'2.4'
 p7022
@@ -18630,7 +18630,7 @@ p7022
 g8
 I01
 sg9
-S'<Sent id="2.4"'
+S'Either location is OK with me btw.'
 p7024
 ssS'8.16'
 p7025
@@ -18638,7 +18638,7 @@ p7025
 g8
 I00
 sg9
-S'<Sent id="8.16"'
+S'&gt;&gt;&gt;&gt; Has the decision been made, or should I express my preference for Seattle?'
 p7027
 ssS'8.13'
 p7028
@@ -18646,7 +18646,7 @@ p7028
 g8
 I00
 sg9
-S'<Sent id="8.13"'
+S"&gt;&gt; I'll check into that Peter : - )"
 p7030
 ssS'8.12'
 p7031
@@ -18654,7 +18654,7 @@ p7031
 g8
 I00
 sg9
-S'<Sent id="8.12"'
+S'&gt; ----- Original Message -----'
 p7033
 ssS'7.24'
 p7034
@@ -18670,7 +18670,7 @@ p7037
 g8
 I00
 sg9
-S'<Sent id="7.21"'
+S'&gt;&gt; Fax +43 316 873 5510'
 p7039
 ssS'7.20'
 p7040
@@ -18678,7 +18678,7 @@ p7040
 g8
 I00
 sg9
-S'<Sent id="7.20"'
+S'&gt;&gt; Phone +43 316 873 5513'
 p7042
 ssS'7.23'
 p7043
@@ -18686,7 +18686,7 @@ p7043
 g8
 I00
 sg9
-S'<Sent id="7.23"'
+S'&gt;&gt;'
 p7045
 ssS'7.22'
 p7046
@@ -18694,7 +18694,7 @@ p7046
 g8
 I00
 sg9
-S'<Sent id="7.22"'
+S'&gt;&gt; Web http://jcewww.iaik.tu-graz.ac.at'
 p7048
 ssS'8.18'
 p7049
@@ -18702,7 +18702,7 @@ p7049
 g8
 I00
 sg9
-S'<Sent id="8.18"'
+S'&gt;&gt;&gt; Peter'
 p7051
 ssS'8.1'
 p7052
@@ -18718,7 +18718,7 @@ p7055
 g8
 I00
 sg9
-S'<Sent id="8.3"'
+S'-----Original Message-----'
 p7057
 ssS'8.2'
 p7058
@@ -18726,7 +18726,7 @@ p7058
 g8
 I01
 sg9
-S'<Sent id="8.2"'
+S"It's in Irvine."
 p7060
 ssS'8.5'
 p7061
@@ -18734,7 +18734,7 @@ p7061
 g8
 I00
 sg9
-S'<Sent id="8.5"'
+S'&gt; Staging in Seattle saves the bulk of us the drive out to Redmond.'
 p7063
 ssS'8.4'
 p7064
@@ -18766,7 +18766,7 @@ p7073
 g8
 I00
 sg9
-S'<Sent id="8.9"'
+S'&gt; Very good site and lots of reasoably priced facilities in the area and Pikes Market Arcade Area is a hop, skip, and a jump away.'
 p7075
 ssS'8.8'
 p7076
@@ -18774,7 +18774,7 @@ p7076
 g8
 I00
 sg9
-S'<Sent id="8.8"'
+S"&gt; A number of us have personal experience of the Edgewater's facilities from one of last year's ISC Meetings we had there."
 p7078
 ssS'6.19'
 p7079
@@ -18782,7 +18782,7 @@ p7079
 g8
 I00
 sg9
-S'<Sent id="6.19"'
+S'&gt;&gt;&gt; Further logistic information will be posted as soon as it is available.'
 p7081
 ssS'6.18'
 p7082
@@ -18814,7 +18814,7 @@ p7091
 g8
 I00
 sg9
-S'<Sent id="6.11"'
+S'&gt; -----Original Message-----'
 p7093
 ssS'6.10'
 p7094
@@ -18822,7 +18822,7 @@ p7094
 g8
 I00
 sg9
-S'<Sent id="6.10"'
+S'&gt; -Mark'
 p7096
 ssS'6.17'
 p7097
@@ -18830,7 +18830,7 @@ p7097
 g8
 I00
 sg9
-S'<Sent id="6.17"'
+S'&gt;&gt; -----Original Message-----'
 p7099
 ssS'6.16'
 p7100
@@ -18838,7 +18838,7 @@ p7100
 g8
 I00
 sg9
-S'<Sent id="6.16"'
+S'&gt;&gt; --Barb'
 p7102
 ssS'6.15'
 p7103
@@ -18846,7 +18846,7 @@ p7103
 g8
 I00
 sg9
-S'<Sent id="6.15"'
+S'&gt;&gt; Either location is OK with me btw.'
 p7105
 ssS'6.14'
 p7106
@@ -18862,7 +18862,7 @@ p7109
 g8
 I00
 sg9
-S'<Sent id="5.12"'
+S'&gt; Fax +43 316 873 5510'
 p7111
 ssS'5.13'
 p7112
@@ -18878,7 +18878,7 @@ p7115
 g8
 I00
 sg9
-S'<Sent id="5.10"'
+S'&gt; Email Peter.Lipp@iaik.at'
 p7117
 ssS'5.11'
 p7118
@@ -18886,7 +18886,7 @@ p7118
 g8
 I00
 sg9
-S'<Sent id="5.11"'
+S'&gt; Phone +43 316 873 5513'
 p7120
 ssS'8.20'
 p7121
@@ -18894,7 +18894,7 @@ p7121
 g8
 I00
 sg9
-S'<Sent id="8.20"'
+S'&gt;&gt;&gt; Dr. Peter Lipp'
 p7123
 ssS'8.21'
 p7124
@@ -18902,7 +18902,7 @@ p7124
 g8
 I00
 sg9
-S'<Sent id="8.21"'
+S'&gt;&gt;&gt; IAIK, TU Graz'
 p7126
 ssS'8.22'
 p7127
@@ -18910,7 +18910,7 @@ p7127
 g8
 I00
 sg9
-S'<Sent id="8.22"'
+S'&gt;&gt;&gt; Email Peter.Lipp@iaik.at'
 p7129
 ssS'8.23'
 p7130
@@ -18918,7 +18918,7 @@ p7130
 g8
 I00
 sg9
-S'<Sent id="8.23"'
+S'&gt;&gt;&gt; Phone +43 316 873 5513'
 p7132
 ssS'3.4'
 p7133
@@ -18942,7 +18942,7 @@ p7139
 g8
 I00
 sg9
-S'<Sent id="1.4"'
+S'Donald'
 p7141
 ssS'1.5'
 p7142
@@ -18950,7 +18950,7 @@ p7142
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S'====================================================================='
 p7144
 ssS'1.6'
 p7145
@@ -18958,7 +18958,7 @@ p7145
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'Donald E. Eastlake 3rd +1 914-276-2668 dee3@torque.pothole.com'
 p7147
 ssS'1.7'
 p7148
@@ -18966,7 +18966,7 @@ p7148
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'65 Shindegan Hill Road, RR#1 +1 914-784-7913(work) dee3@us.ibm.com'
 p7150
 ssS'1.1'
 p7151
@@ -18982,7 +18982,7 @@ p7154
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'Further logistic information will be posted as soon as it is available.'
 p7156
 ssS'1.3'
 p7157
@@ -18990,7 +18990,7 @@ p7157
 g8
 I00
 sg9
-S'<Sent id="1.3"'
+S'Thanks,'
 p7159
 ssS'1.8'
 p7160
@@ -19006,7 +19006,7 @@ p7163
 g8
 I00
 sg9
-S'<Sent id="8.19"'
+S'&gt;&gt;&gt; ---------------------------------'
 p7165
 ssS'4.5'
 p7166
@@ -19014,7 +19014,7 @@ p7166
 g8
 I00
 sg9
-S'<Sent id="4.5"'
+S'Dr. Peter Lipp'
 p7168
 ssS'4.4'
 p7169
@@ -19022,7 +19022,7 @@ p7169
 g8
 I00
 sg9
-S'<Sent id="4.4"'
+S'---------------------------------'
 p7171
 ssS'4.7'
 p7172
@@ -19030,7 +19030,7 @@ p7172
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'Email Peter.Lipp@iaik.at'
 p7174
 ssS'4.6'
 p7175
@@ -19038,7 +19038,7 @@ p7175
 g8
 I00
 sg9
-S'<Sent id="4.6"'
+S'IAIK, TU Graz'
 p7177
 ssS'4.1'
 p7178
@@ -19046,7 +19046,7 @@ p7178
 g8
 I01
 sg9
-S'<Sent id="4.1"'
+S'&gt; Has the decision been made, or should I express my preference for Seattle?'
 p7180
 ssS'5.5'
 p7181
@@ -19054,7 +19054,7 @@ p7181
 g8
 I00
 sg9
-S'<Sent id="5.5"'
+S'&gt; Only if we can go to a certain shop, Barb knows what I am talking about :-)'
 p7183
 ssS'4.3'
 p7184
@@ -19062,7 +19062,7 @@ p7184
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'Peter'
 p7186
 ssS'4.2'
 p7187
@@ -19070,7 +19070,7 @@ p7187
 g8
 I01
 sg9
-S'<Sent id="4.2"'
+S'Only if we can go to a certain shop, Barb knows what I am talking about :-)'
 p7189
 ssS'5.8'
 p7190
@@ -19078,7 +19078,7 @@ p7190
 g8
 I00
 sg9
-S'<Sent id="5.8"'
+S'&gt; Dr. Peter Lipp'
 p7192
 ssS'5.9'
 p7193
@@ -19086,7 +19086,7 @@ p7193
 g8
 I00
 sg9
-S'<Sent id="5.9"'
+S'&gt; IAIK, TU Graz'
 p7195
 ssS'4.9'
 p7196
@@ -19094,7 +19094,7 @@ p7196
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'Fax +43 316 873 5510'
 p7198
 ssS'4.8'
 p7199
@@ -19102,7 +19102,7 @@ p7199
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'Phone +43 316 873 5513'
 p7201
 ssS'3.8'
 p7202
@@ -19110,7 +19110,7 @@ p7202
 g8
 I00
 sg9
-S'<Sent id="3.8"'
+S'&gt; --Barb'
 p7204
 ssS'3.9'
 p7205
@@ -19118,7 +19118,7 @@ p7205
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'&gt; -----Original Message-----'
 p7207
 ssS'5.1'
 p7208
@@ -19126,7 +19126,7 @@ p7208
 g8
 I01
 sg9
-S'<Sent id="5.1"'
+S"I'll check into that Peter : - )"
 p7210
 ssS'5.2'
 p7211
@@ -19134,7 +19134,7 @@ p7211
 g8
 I00
 sg9
-S'<Sent id="5.2"'
+S'--Barb'
 p7213
 ssS'5.3'
 p7214
@@ -19142,7 +19142,7 @@ p7214
 g8
 I00
 sg9
-S'<Sent id="5.3"'
+S'-----Original Message-----'
 p7216
 ssS'5.4'
 p7217
@@ -19150,7 +19150,7 @@ p7217
 g8
 I00
 sg9
-S'<Sent id="5.4"'
+S'&gt;&gt; Has the decision been made, or should I express my preference for Seattle?'
 p7219
 ssS'8.24'
 p7220
@@ -19158,7 +19158,7 @@ p7220
 g8
 I00
 sg9
-S'<Sent id="8.24"'
+S'&gt;&gt;&gt; Fax +43 316 873 5510'
 p7222
 ssS'5.6'
 p7223
@@ -19166,7 +19166,7 @@ p7223
 g8
 I00
 sg9
-S'<Sent id="5.6"'
+S'&gt; Peter'
 p7225
 ssS'8.25'
 p7226
@@ -19182,7 +19182,7 @@ p7229
 g8
 I00
 sg9
-S'<Sent id="5.7"'
+S'&gt; ---------------------------------'
 p7231
 ssS'6.24'
 p7232
@@ -19190,7 +19190,7 @@ p7232
 g8
 I00
 sg9
-S'<Sent id="6.24"'
+S'&gt;&gt;&gt; 65 Shindegan Hill Road, RR#1 +1 914-784-7913(work) dee3@us.ibm.com'
 p7234
 ssS'6.25'
 p7235
@@ -19206,7 +19206,7 @@ p7238
 g8
 I00
 sg9
-S'<Sent id="6.22"'
+S'&gt;&gt;&gt; ====================================================================='
 p7240
 ssS'6.23'
 p7241
@@ -19214,7 +19214,7 @@ p7241
 g8
 I00
 sg9
-S'<Sent id="6.23"'
+S'&gt;&gt;&gt; Donald E. Eastlake 3rd +1 914-276-2668 dee3@torque.pothole.com'
 p7243
 ssS'6.20'
 p7244
@@ -19222,7 +19222,7 @@ p7244
 g8
 I00
 sg9
-S'<Sent id="6.20"'
+S'&gt;&gt;&gt; Thanks,'
 p7246
 ssS'6.21'
 p7247
@@ -19230,7 +19230,7 @@ p7247
 g8
 I00
 sg9
-S'<Sent id="6.21"'
+S'&gt;&gt;&gt; Donald'
 p7249
 ssssS'053-15491914'
 p7250
@@ -20525,7 +20525,7 @@ p7736
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S"-- don't mind me."
 p7738
 ssS'1.6'
 p7739
@@ -20533,7 +20533,7 @@ p7739
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'--'
 p7741
 ssS'1.7'
 p7742
@@ -20541,7 +20541,7 @@ p7742
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.kynn.com/'
 p7744
 ssS'1.1'
 p7745
@@ -20549,7 +20549,7 @@ p7745
 g8
 I01
 sg9
-S'<Sent id="1.1"'
+S'Question: Does a requirement to use graphics "when appropriate" -- something that may not be easily done by users with visual disabilities -- mean that blind people are not going to be "good" web designers?'
 p7747
 ssS'1.2'
 p7748
@@ -20557,7 +20557,7 @@ p7748
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities?'
 p7750
 ssS'1.3'
 p7751
@@ -20565,7 +20565,7 @@ p7751
 g8
 I01
 sg9
-S'<Sent id="1.3"'
+S'If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively?'
 p7753
 ssS'3.10'
 p7754
@@ -20573,7 +20573,7 @@ p7754
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'--'
 p7756
 ssS'3.11'
 p7757
@@ -20581,7 +20581,7 @@ p7757
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.kynn.com/'
 p7759
 ssS'3.12'
 p7760
@@ -20589,7 +20589,7 @@ p7760
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'Director of Accessibility, edapta http://www.edapta.com/'
 p7762
 ssS'3.13'
 p7763
@@ -20597,7 +20597,7 @@ p7763
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/'
 p7765
 ssS'1.8'
 p7766
@@ -20605,7 +20605,7 @@ p7766
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'Director of Accessibility, edapta http://www.edapta.com/'
 p7768
 ssS'1.9'
 p7769
@@ -20613,7 +20613,7 @@ p7769
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/'
 p7771
 ssS'3.6'
 p7772
@@ -20621,7 +20621,7 @@ p7772
 g8
 I01
 sg9
-S'<Sent id="3.6"'
+S'(This changes when images become a -requirement for accessibility-.)'
 p7774
 ssS'3.7'
 p7775
@@ -20637,7 +20637,7 @@ p7778
 g8
 I00
 sg9
-S'<Sent id="2.9"'
+S'&gt; If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively?'
 p7780
 ssS'2.8'
 p7781
@@ -20645,7 +20645,7 @@ p7781
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'&gt; Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities?'
 p7783
 ssS'3.2'
 p7784
@@ -20669,7 +20669,7 @@ p7790
 g8
 I00
 sg9
-S'<Sent id="5.21"'
+S'423 Ritter Annex, Philadelphia, PA 19122'
 p7792
 ssS'3.1'
 p7793
@@ -20709,7 +20709,7 @@ p7805
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'&gt; Question: Does a requirement to use graphics "when appropriate" -- something that may not be easily done by users with visual disabilities -- mean that blind people are not going to be "good" web designers?'
 p7807
 ssS'2.6'
 p7808
@@ -20717,7 +20717,7 @@ p7808
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'Charles'
 p7810
 ssS'2.5'
 p7811
@@ -20725,7 +20725,7 @@ p7811
 g8
 I00
 sg9
-S'<Sent id="2.5"'
+S'cheers'
 p7813
 ssS'2.4'
 p7814
@@ -20733,7 +20733,7 @@ p7814
 g8
 I01
 sg9
-S'<Sent id="2.4"'
+S'An analgous question might be to ask whether a blind person is going to be able to adequately describe an image - currently a P1 requirement in a number of situations.'
 p7816
 ssS'4.5'
 p7817
@@ -20749,7 +20749,7 @@ p7820
 g8
 I00
 sg9
-S'<Sent id="4.4"'
+S'special needs teacher'
 p7822
 ssS'5.2'
 p7823
@@ -20773,7 +20773,7 @@ p7829
 g8
 I00
 sg9
-S'<Sent id="4.1"'
+S'&gt; and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...'
 p7831
 ssS'5.5'
 p7832
@@ -20797,7 +20797,7 @@ p7838
 g8
 I01
 sg9
-S'<Sent id="4.2"'
+S'If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI.'
 p7840
 ssS'5.8'
 p7841
@@ -20805,7 +20805,7 @@ p7841
 g8
 I00
 sg9
-S'<Sent id="5.8"'
+S"I'll take a rule based design by a blind indivdiual any day."
 p7843
 ssS'5.9'
 p7844
@@ -20813,7 +20813,7 @@ p7844
 g8
 I01
 sg9
-S'<Sent id="5.9"'
+S'Other examples are graphs generated from data, schematic diagrams generated from pspice lists, and icons selected from a standardized set.'
 p7846
 ssS'6.1'
 p7847
@@ -20821,7 +20821,7 @@ p7847
 g8
 I00
 sg9
-S'<Sent id="6.1"'
+S'&gt;&gt; and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...'
 p7849
 ssS'6.9'
 p7850
@@ -20829,7 +20829,7 @@ p7850
 g8
 I00
 sg9
-S'<Sent id="6.9"'
+S'http://www.kynn.com/'
 p7852
 ssS'5.6'
 p7853
@@ -20861,7 +20861,7 @@ p7862
 g8
 I00
 sg9
-S'<Sent id="5.24"'
+S'(215) 204-2247 (voice)'
 p7864
 ssS'2.16'
 p7865
@@ -20877,7 +20877,7 @@ p7868
 g8
 I00
 sg9
-S'<Sent id="2.15"'
+S'Location: I-cubed, 110 Victoria Street, Carlton VIC 3053'
 p7870
 ssS'2.14'
 p7871
@@ -20885,7 +20885,7 @@ p7871
 g8
 I00
 sg9
-S'<Sent id="2.14"'
+S'W3C Web Accessibility Initiative http://www.w3.org/WAI'
 p7873
 ssS'2.13'
 p7874
@@ -20893,7 +20893,7 @@ p7874
 g8
 I00
 sg9
-S'<Sent id="2.13"'
+S'Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136'
 p7876
 ssS'2.12'
 p7877
@@ -20901,7 +20901,7 @@ p7877
 g8
 I00
 sg9
-S'<Sent id="2.12"'
+S'--'
 p7879
 ssS'2.11'
 p7880
@@ -20909,7 +20909,7 @@ p7880
 g8
 I00
 sg9
-S'<Sent id="2.11"'
+S"&gt; -- don't mind me."
 p7882
 ssS'2.10'
 p7883
@@ -20925,7 +20925,7 @@ p7886
 g8
 I00
 sg9
-S'<Sent id="6.8"'
+S'Kynn Bartlett &amp;lt;kynn@operamail.com&amp;gt;'
 p7888
 ssS'5.1'
 p7889
@@ -20933,7 +20933,7 @@ p7889
 g8
 I00
 sg9
-S'<Sent id="5.1"'
+S'&gt; If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively?'
 p7891
 ssS'3.14'
 p7892
@@ -20941,7 +20941,7 @@ p7892
 g8
 I00
 sg9
-S'<Sent id="3.14"'
+S'AWARE Center Director http://www.awarecenter.org/'
 p7894
 ssS'6.2'
 p7895
@@ -20949,7 +20949,7 @@ p7895
 g8
 I00
 sg9
-S'<Sent id="6.2"'
+S'&gt; If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI.'
 p7897
 ssS'6.10'
 p7898
@@ -20989,7 +20989,7 @@ p7910
 g8
 I01
 sg9
-S'<Sent id="5.10"'
+S'Also, page layout and color selection can be made according to rules and standards.'
 p7912
 ssS'5.11'
 p7913
@@ -21005,7 +21005,7 @@ p7916
 g8
 I00
 sg9
-S'<Sent id="5.16"'
+S'--'
 p7918
 ssS'5.17'
 p7919
@@ -21013,7 +21013,7 @@ p7919
 g8
 I00
 sg9
-S'<Sent id="5.17"'
+S'Leonard R. Kasday, Ph.D.'
 p7921
 ssS'5.14'
 p7922
@@ -21029,7 +21029,7 @@ p7925
 g8
 I01
 sg9
-S'<Sent id="5.15"'
+S"As for art by people born blind... I'm not familiar with that area but I woudn't be surprised there's some remarkable use of shape and form."
 p7927
 ssS'6.5'
 p7928
@@ -21053,7 +21053,7 @@ p7934
 g8
 I00
 sg9
-S'<Sent id="5.18"'
+S'Institute on Disabilities/UAP, and'
 p7936
 ssS'5.19'
 p7937
@@ -21061,7 +21061,7 @@ p7937
 g8
 I00
 sg9
-S'<Sent id="5.19"'
+S'Department of Electrical Engineering'
 p7939
 ssS'3.9'
 p7940
@@ -21069,7 +21069,7 @@ p7940
 g8
 I01
 sg9
-S'<Sent id="3.9"'
+S'-- and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics...'
 p7942
 ssS'5.20'
 p7943
@@ -21077,7 +21077,7 @@ p7943
 g8
 I00
 sg9
-S'<Sent id="5.20"'
+S'Temple University'
 p7945
 ssS'6.7'
 p7946
@@ -21085,7 +21085,7 @@ p7946
 g8
 I00
 sg9
-S'<Sent id="6.7"'
+S'--'
 p7948
 ssS'4.3'
 p7949
@@ -21093,7 +21093,7 @@ p7949
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'jay@peepo.com'
 p7951
 ssS'6.6'
 p7952
@@ -21101,7 +21101,7 @@ p7952
 g8
 I01
 sg9
-S'<Sent id="6.6"'
+S'-- your "style" of writing is vastly different from mine, and I certainly see how confusion could result.'
 p7954
 ssS'5.7'
 p7955
@@ -21117,7 +21117,7 @@ p7958
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'&gt; An analgous question might be to ask whether a blind person is going to be able to adequately describe an image - currently a P1 requirement in a number of situations.'
 p7960
 ssS'6.3'
 p7961
@@ -21141,7 +21141,7 @@ p7967
 g8
 I01
 sg9
-S'<Sent id="6.4"'
+S'We may be having a comprehension problem, but if you\'re going to react in a way that seems to question my "loyalty to cause" -- despite being willing to take the time needed to work through this issue, as my repeated email messages haven proven that I\'m willing to do -- then you\'re likely to turn away even MORE people who could be your strongest allies.'
 p7969
 ssS'5.23'
 p7970
@@ -21149,7 +21149,7 @@ p7970
 g8
 I00
 sg9
-S'<Sent id="5.23"'
+S'http://astro.temple.edu/~kasday'
 p7972
 ssS'5.22'
 p7973
@@ -21157,7 +21157,7 @@ p7973
 g8
 I00
 sg9
-S'<Sent id="5.22"'
+S'kasday@acm.org'
 p7975
 ssssS'059-7186494'
 p7976
@@ -21186,7 +21186,7 @@ p7985
 g8
 I01
 sg9
-S'<Sent id="1.6"'
+S'Are these good locations, or does someone have another proposal (offer of hosting...)'
 p7987
 ssS'1.7'
 p7988
@@ -21194,7 +21194,7 @@ p7988
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'Charles'
 p7990
 ssS'4.15'
 p7991
@@ -21202,7 +21202,7 @@ p7991
 g8
 I00
 sg9
-S'<Sent id="4.15"'
+S'&gt;'
 p7993
 ssS'1.1'
 p7994
@@ -21210,7 +21210,7 @@ p7994
 g8
 I01
 sg9
-S'<Sent id="1.1"'
+S'There have been a couple of possiblities raised:'
 p7996
 ssS'1.2'
 p7997
@@ -21218,7 +21218,7 @@ p7997
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues)'
 p7999
 ssS'1.3'
 p8000
@@ -21226,7 +21226,7 @@ p8000
 g8
 I01
 sg9
-S'<Sent id="1.3"'
+S'Nashville, mid october'
 p8002
 ssS'3.10'
 p8003
@@ -21234,7 +21234,7 @@ p8003
 g8
 I00
 sg9
-S'<Sent id="3.10"'
+S'Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134'
 p8005
 ssS'3.11'
 p8006
@@ -21242,7 +21242,7 @@ p8006
 g8
 I00
 sg9
-S'<Sent id="3.11"'
+S'136'
 p8008
 ssS'3.12'
 p8009
@@ -21250,7 +21250,7 @@ p8009
 g8
 I00
 sg9
-S'<Sent id="3.12"'
+S'W3C Web Accessibility Initiative http://www.w3.org/WAI'
 p8011
 ssS'3.13'
 p8012
@@ -21258,7 +21258,7 @@ p8012
 g8
 I00
 sg9
-S'<Sent id="3.13"'
+S'Location: I-cubed, 110 Victoria Street, Carlton VIC 3053'
 p8014
 ssS'1.8'
 p8015
@@ -21266,7 +21266,7 @@ p8015
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'--'
 p8017
 ssS'1.9'
 p8018
@@ -21274,7 +21274,7 @@ p8018
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136'
 p8020
 ssS'3.6'
 p8021
@@ -21290,7 +21290,7 @@ p8024
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'&gt; Are these good locations, or does someone have another proposal (offer of hosting...)'
 p8026
 ssS'3.4'
 p8027
@@ -21298,7 +21298,7 @@ p8027
 g8
 I00
 sg9
-S'<Sent id="3.4"'
+S'&gt; Nashville, mid october'
 p8029
 ssS'2.8'
 p8030
@@ -21314,7 +21314,7 @@ p8033
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'&gt; There have been a couple of possiblities raised:'
 p8035
 ssS'3.3'
 p8036
@@ -21322,7 +21322,7 @@ p8036
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'&gt; Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues)'
 p8038
 ssS'3.1'
 p8039
@@ -21330,7 +21330,7 @@ p8039
 g8
 I01
 sg9
-S'<Sent id="3.1"'
+S'I think a face-to-face is a good idea and have no problems with either of the dates suggested.'
 p8041
 ssS'2.3'
 p8042
@@ -21346,7 +21346,7 @@ p8045
 g8
 I01
 sg9
-S'<Sent id="2.2"'
+S"- something that doesn't lend itself to list/telecon handling."
 p8047
 ssS'2.1'
 p8048
@@ -21362,7 +21362,7 @@ p8051
 g8
 I00
 sg9
-S'<Sent id="2.7"'
+S'ACCESSIBILITY IS RIGHT - NOT PRIVILEGE'
 p8053
 ssS'2.6'
 p8054
@@ -21370,7 +21370,7 @@ p8054
 g8
 I00
 sg9
-S'<Sent id="2.6"'
+S'Love.'
 p8056
 ssS'2.5'
 p8057
@@ -21378,7 +21378,7 @@ p8057
 g8
 I00
 sg9
-S'<Sent id="2.5"'
+S'--'
 p8059
 ssS'2.4'
 p8060
@@ -21386,7 +21386,7 @@ p8060
 g8
 I01
 sg9
-S'<Sent id="2.4"'
+S'Not necessarily in conjunction with some "external" event.'
 p8062
 ssS'4.5'
 p8063
@@ -21402,7 +21402,7 @@ p8066
 g8
 I01
 sg9
-S'<Sent id="4.4"'
+S'Information about the event is at: http://www.educause.edu/conference/e2000'
 p8068
 ssS'4.7'
 p8069
@@ -21410,7 +21410,7 @@ p8069
 g8
 I01
 sg9
-S'<Sent id="4.7"'
+S'We would break out into small groups to create drafts and then gather as a whole group to review the drafts.'
 p8071
 ssS'4.6'
 p8072
@@ -21434,7 +21434,7 @@ p8078
 g8
 I00
 sg9
-S'<Sent id="4.17"'
+S'&gt;'
 p8080
 ssS'1.10'
 p8081
@@ -21442,7 +21442,7 @@ p8081
 g8
 I00
 sg9
-S'<Sent id="1.10"'
+S'W3C Web Accessibility Initiative http://www.w3.org/WAI'
 p8083
 ssS'1.11'
 p8084
@@ -21450,7 +21450,7 @@ p8084
 g8
 I00
 sg9
-S'<Sent id="1.11"'
+S'Location: I-cubed, 110 Victoria Street, Carlton VIC 3053'
 p8086
 ssS'4.16'
 p8087
@@ -21458,7 +21458,7 @@ p8087
 g8
 I00
 sg9
-S'<Sent id="4.16"'
+S'&gt; Charles'
 p8089
 ssS'4.9'
 p8090
@@ -21466,7 +21466,7 @@ p8090
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'&gt; There have been a couple of possiblities raised:'
 p8092
 ssS'4.8'
 p8093
@@ -21474,7 +21474,7 @@ p8093
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'Jutta'
 p8095
 ssS'4.19'
 p8096
@@ -21482,7 +21482,7 @@ p8096
 g8
 I00
 sg9
-S'<Sent id="4.19"'
+S'&gt; Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136'
 p8098
 ssS'3.8'
 p8099
@@ -21490,7 +21490,7 @@ p8099
 g8
 I00
 sg9
-S'<Sent id="3.8"'
+S'Charles'
 p8101
 ssS'4.18'
 p8102
@@ -21498,7 +21498,7 @@ p8102
 g8
 I00
 sg9
-S'<Sent id="4.18"'
+S'&gt; --'
 p8104
 ssS'4.11'
 p8105
@@ -21506,7 +21506,7 @@ p8105
 g8
 I00
 sg9
-S'<Sent id="4.11"'
+S'&gt; Nashville, mid october'
 p8107
 ssS'3.9'
 p8108
@@ -21514,7 +21514,7 @@ p8108
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'--'
 p8110
 ssS'3.14'
 p8111
@@ -21530,7 +21530,7 @@ p8114
 g8
 I00
 sg9
-S'<Sent id="4.14"'
+S'&gt; Are these good locations, or does someone have another proposal (offer of hosting...)'
 p8116
 ssS'4.20'
 p8117
@@ -21538,7 +21538,7 @@ p8117
 g8
 I00
 sg9
-S'<Sent id="4.20"'
+S'&gt; W3C Web Accessibility Initiative http://www.w3.org/WAI'
 p8119
 ssS'4.12'
 p8120
@@ -21554,7 +21554,7 @@ p8123
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'&gt; Ottawa, 5 or 6 October (This depends on a number of other W3C timing issues)'
 p8125
 ssS'4.1'
 p8126
@@ -21594,7 +21594,7 @@ p8138
 g8
 I00
 sg9
-S'<Sent id="4.21"'
+S'&gt; Location: I-cubed, 110 Victoria Street, Carlton VIC 3053'
 p8140
 ssS'3.5'
 p8141
@@ -21719,7 +21719,7 @@ p8186
 g8
 I00
 sg9
-S'<Sent id="6.5"'
+S'--'
 p8188
 ssS'6.4'
 p8189
@@ -21727,7 +21727,7 @@ p8189
 g8
 I01
 sg9
-S'<Sent id="6.4"'
+S"My wife uses that regularly to convert City of Fullerton documents from Word to HTML, rather than cutting-and-pasting and marking up herself or trusting 'Save as HTML...'"
 p8191
 ssS'6.3'
 p8192
@@ -21783,7 +21783,7 @@ p8210
 g8
 I01
 sg9
-S'<Sent id="8.11"'
+S"Anyway, join the WAI Authoring Tools working group if you're interested in that kind of issue."
 p8212
 ssS'8.10'
 p8213
@@ -21791,7 +21791,7 @@ p8213
 g8
 I00
 sg9
-S'<Sent id="8.10"'
+S'The DOCTYPE and the STYLE I had in this test file were moved from the top and the head to the body, which is really bad.'
 p8215
 ssS'6.9'
 p8216
@@ -21807,7 +21807,7 @@ p8219
 g8
 I00
 sg9
-S'<Sent id="6.8"'
+S'Enroll now for web accessibility with HTML 4.0! http://www.hwg.org/classes/'
 p8221
 ssS'1.12'
 p8222
@@ -21815,7 +21815,7 @@ p8222
 g8
 I00
 sg9
-S'<Sent id="1.12"'
+S'Best of Service for your small business network needs'
 p8224
 ssS'1.13'
 p8225
@@ -21831,7 +21831,7 @@ p8228
 g8
 I00
 sg9
-S'<Sent id="1.10"'
+S'voice 301-949-7599'
 p8230
 ssS'1.11'
 p8231
@@ -21839,7 +21839,7 @@ p8231
 g8
 I00
 sg9
-S'<Sent id="1.11"'
+S'Dynamic Solutions Inc.'
 p8233
 ssS'2.13'
 p8234
@@ -21879,7 +21879,7 @@ p8246
 g8
 I00
 sg9
-S'<Sent id="6.7"'
+S'Chief Technologist &amp;amp; Co-Owner, Idyll Mountain Internet; Fullerton, California'
 p8248
 ssS'6.6'
 p8249
@@ -21887,7 +21887,7 @@ p8249
 g8
 I00
 sg9
-S'<Sent id="6.6"'
+S'Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.idyllmtn.com/~kynn/'
 p8251
 ssS'7.1'
 p8252
@@ -21911,7 +21911,7 @@ p8258
 g8
 I00
 sg9
-S'<Sent id="6.2"'
+S'&gt; Because it is a good tool for the job.'
 p8260
 ssS'4.11'
 p8261
@@ -21919,7 +21919,7 @@ p8261
 g8
 I01
 sg9
-S'<Sent id="4.11"'
+S'Because it is a good tool for the job.'
 p8263
 ssS'4.10'
 p8264
@@ -21959,7 +21959,7 @@ p8276
 g8
 I00
 sg9
-S'<Sent id="3.7"'
+S'&gt; [snip]'
 p8278
 ssS'2.9'
 p8279
@@ -22071,7 +22071,7 @@ p8318
 g8
 I00
 sg9
-S'<Sent id="8.12"'
+S'&gt; PS: *Why* would you use Word to edit an HTML document?!'
 p8320
 ssS'7.21'
 p8321
@@ -22095,7 +22095,7 @@ p8327
 g8
 I00
 sg9
-S'<Sent id="8.1"'
+S'&gt; I could test this on my system if you can confirm the scenario:'
 p8329
 ssS'8.3'
 p8330
@@ -22103,7 +22103,7 @@ p8330
 g8
 I00
 sg9
-S'<Sent id="8.3"'
+S'&gt; - The doc contains an &amp;lt;IMG&amp;gt; with the ALT= attribute.'
 p8332
 ssS'8.2'
 p8333
@@ -22111,7 +22111,7 @@ p8333
 g8
 I00
 sg9
-S'<Sent id="8.2"'
+S'&gt; - Start with an HTML document, created by any means.'
 p8335
 ssS'8.5'
 p8336
@@ -22119,7 +22119,7 @@ p8336
 g8
 I00
 sg9
-S'<Sent id="8.5"'
+S'&gt; - The page is "Saved as HTML" from Word, without first saving it in Word format.'
 p8338
 ssS'8.4'
 p8339
@@ -22127,7 +22127,7 @@ p8339
 g8
 I00
 sg9
-S'<Sent id="8.4"'
+S'&gt; - The HTML doc is opened in Word and some text on the page is changed or added.'
 p8341
 ssS'8.7'
 p8342
@@ -22135,7 +22135,7 @@ p8342
 g8
 I00
 sg9
-S'<Sent id="8.7"'
+S'I even tried saving the file as .doc format, copying it under a different name.doc, reopening it in Word and saving it in HTML, and the ALT were still present (which proves that the ALT are somehow stored in the doc format)'
 p8344
 ssS'8.6'
 p8345
@@ -22143,7 +22143,7 @@ p8345
 g8
 I01
 sg9
-S'<Sent id="8.6"'
+S'I tried that with Word 97 and there was no lost of ALT.'
 p8347
 ssS'8.9'
 p8348
@@ -22151,7 +22151,7 @@ p8348
 g8
 I01
 sg9
-S'<Sent id="8.9"'
+S"in fact, in looks like unknown attributes are pruned out, which shouldn't happen (unknown elements are kept, albeit mess up with, see below)"
 p8350
 ssS'8.8'
 p8351
@@ -22215,7 +22215,7 @@ p8372
 g8
 I01
 sg9
-S'<Sent id="3.4"'
+S'This is exactly why the authoring tools aspect of the WAI is so important.'
 p8374
 ssS'3.5'
 p8375
@@ -22223,7 +22223,7 @@ p8375
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'-Jamie Fox'
 p8377
 ssS'1.4'
 p8378
@@ -22231,7 +22231,7 @@ p8378
 g8
 I00
 sg9
-S'<Sent id="1.4"'
+S'--'
 p8380
 ssS'1.5'
 p8381
@@ -22239,7 +22239,7 @@ p8381
 g8
 I00
 sg9
-S'<Sent id="1.5"'
+S'Hands-On Technolog(eye)s'
 p8383
 ssS'1.6'
 p8384
@@ -22247,7 +22247,7 @@ p8384
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'Touching The Internet'
 p8386
 ssS'1.7'
 p8387
@@ -22255,7 +22255,7 @@ p8387
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'ftp://ftp.clark.net/pub/poehlman'
 p8389
 ssS'1.1'
 p8390
@@ -22271,7 +22271,7 @@ p8393
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'can anyone confirm or deny this?'
 p8395
 ssS'1.3'
 p8396
@@ -22279,7 +22279,7 @@ p8396
 g8
 I00
 sg9
-S'<Sent id="1.3"'
+S'Thanks!'
 p8398
 ssS'1.8'
 p8399
@@ -22287,7 +22287,7 @@ p8399
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'http://poehlman.clark.net'
 p8401
 ssS'1.9'
 p8402
@@ -22295,7 +22295,7 @@ p8402
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'email: poehlman@clark.net'
 p8404
 ssS'4.5'
 p8405
@@ -22319,7 +22319,7 @@ p8411
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'So there is a lot of versatility.'
 p8413
 ssS'4.6'
 p8414
@@ -22383,7 +22383,7 @@ p8435
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'Furthermore, savvy Word users can create special-purpose editing commands in Visual Basic to enhance the usefulness of the word processor as a text editor.'
 p8437
 ssS'4.8'
 p8438
@@ -22391,7 +22391,7 @@ p8438
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'Unfortunately, many of the really powerful Word commands are extremely poorly documented.'
 p8440
 ssS'3.8'
 p8441
@@ -22431,7 +22431,7 @@ p8453
 g8
 I00
 sg9
-S'<Sent id="4.1"'
+S'&gt; PS: *Why* would you use Word to edit an HTML document?!'
 p8455
 ssS'4.3'
 p8456
@@ -22439,7 +22439,7 @@ p8456
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'For example, you can quickly move entire lines or paragraphs without using the clipboard;'
 p8458
 ssS'4.2'
 p8459
@@ -22460,7 +22460,7 @@ p8465
 g8
 I01
 sg9
-S'<Sent id="1.4"'
+S'- both "HTML editors" and the range of other tools that people use to produce content, such as office productivity tools and media editing tools.'
 p8467
 ssS'1.5'
 p8468
@@ -22468,7 +22468,7 @@ p8468
 g8
 I01
 sg9
-S'<Sent id="1.5"'
+S'More information at http://www.w3.org/WAI/AU and guidelines (W3C Recommendation since Feb 2000) at http://www.w3.org/TR/ATAG10'
 p8470
 ssS'1.6'
 p8471
@@ -22476,7 +22476,7 @@ p8471
 g8
 I00
 sg9
-S'<Sent id="1.6"'
+S'cheers'
 p8473
 ssS'1.7'
 p8474
@@ -22484,7 +22484,7 @@ p8474
 g8
 I00
 sg9
-S'<Sent id="1.7"'
+S'Charles McCN'
 p8476
 ssS'4.15'
 p8477
@@ -22492,7 +22492,7 @@ p8477
 g8
 I00
 sg9
-S'<Sent id="4.15"'
+S'Adaptive Technology Resource Centre (ATRC)'
 p8479
 ssS'1.1'
 p8480
@@ -22500,7 +22500,7 @@ p8480
 g8
 I00
 sg9
-S'<Sent id="1.1"'
+S'Peter, or other folks'
 p8482
 ssS'1.2'
 p8483
@@ -22508,7 +22508,7 @@ p8483
 g8
 I01
 sg9
-S'<Sent id="1.2"'
+S'Is there anyone from the OpenOffice or StarOffice projects who has time to represent the group on the W3C Authoring Tool Accessibility Guidelines working group, or to give us updates and feedback on how much those guidelines are implemented by the project?'
 p8485
 ssS'1.3'
 p8486
@@ -22524,7 +22524,7 @@ p8489
 g8
 I00
 sg9
-S'<Sent id="4.19"'
+S'Fax: (416) 971-2896'
 p8491
 ssS'4.18'
 p8492
@@ -22532,7 +22532,7 @@ p8492
 g8
 I00
 sg9
-S'<Sent id="4.18"'
+S'Phone: (416) 946-7060'
 p8494
 ssS'1.8'
 p8495
@@ -22540,7 +22540,7 @@ p8495
 g8
 I00
 sg9
-S'<Sent id="1.8"'
+S'--'
 p8497
 ssS'1.9'
 p8498
@@ -22548,7 +22548,7 @@ p8498
 g8
 I00
 sg9
-S'<Sent id="1.9"'
+S'Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136'
 p8500
 ssS'5.2'
 p8501
@@ -22588,7 +22588,7 @@ p8513
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'Was anyone on the call?'
 p8515
 ssS'3.3'
 p8516
@@ -22596,7 +22596,7 @@ p8516
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'chaals'
 p8518
 ssS'6.1'
 p8519
@@ -22628,7 +22628,7 @@ p8528
 g8
 I01
 sg9
-S'<Sent id="2.2"'
+S'sorry'
 p8530
 ssS'2.1'
 p8531
@@ -22652,7 +22652,7 @@ p8537
 g8
 I00
 sg9
-S'<Sent id="2.5"'
+S'See next email.'
 p8539
 ssS'2.4'
 p8540
@@ -22668,7 +22668,7 @@ p8543
 g8
 I00
 sg9
-S'<Sent id="1.16"'
+S'[snip]'
 p8545
 ssS'1.17'
 p8546
@@ -22676,7 +22676,7 @@ p8546
 g8
 I00
 sg9
-S'<Sent id="1.17"'
+S'&gt; For details on the OpenOffice.org accessibility project, please see:'
 p8548
 ssS'1.14'
 p8549
@@ -22692,7 +22692,7 @@ p8552
 g8
 I00
 sg9
-S'<Sent id="1.15"'
+S'&gt; This work will also allow Sun to build accessibility into the StarOffice productivity suite.'
 p8554
 ssS'1.12'
 p8555
@@ -22700,7 +22700,7 @@ p8555
 g8
 I00
 sg9
-S'<Sent id="1.12"'
+S'(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)'
 p8557
 ssS'1.13'
 p8558
@@ -22708,7 +22708,7 @@ p8558
 g8
 I00
 sg9
-S'<Sent id="1.13"'
+S'&gt; Greetings,'
 p8560
 ssS'1.10'
 p8561
@@ -22716,7 +22716,7 @@ p8561
 g8
 I00
 sg9
-S'<Sent id="1.10"'
+S'W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +1 617 258 5999'
 p8563
 ssS'1.11'
 p8564
@@ -22724,7 +22724,7 @@ p8564
 g8
 I00
 sg9
-S'<Sent id="1.11"'
+S'Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia'
 p8566
 ssS'5.8'
 p8567
@@ -22732,7 +22732,7 @@ p8567
 g8
 I00
 sg9
-S'<Sent id="5.8"'
+S'&gt; chaals'
 p8569
 ssS'5.9'
 p8570
@@ -22748,7 +22748,7 @@ p8573
 g8
 I00
 sg9
-S'<Sent id="4.16"'
+S'University of Toronto'
 p8575
 ssS'4.9'
 p8576
@@ -22756,7 +22756,7 @@ p8576
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'--'
 p8578
 ssS'4.8'
 p8579
@@ -22764,7 +22764,7 @@ p8579
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'&gt; sorry'
 p8581
 ssS'1.18'
 p8582
@@ -22772,7 +22772,7 @@ p8582
 g8
 I00
 sg9
-S'<Sent id="1.18"'
+S'&gt; http://ui.openoffice.org/accessibility/'
 p8584
 ssS'1.19'
 p8585
@@ -22780,7 +22780,7 @@ p8585
 g8
 I00
 sg9
-S'<Sent id="1.19"'
+S'&gt; For details on the OpenOffice.org UNO Accessibility API, please see:'
 p8587
 ssS'5.6'
 p8588
@@ -22796,7 +22796,7 @@ p8591
 g8
 I00
 sg9
-S'<Sent id="5.7"'
+S'&gt; Was anyone on the call?'
 p8593
 ssS'4.11'
 p8594
@@ -22804,7 +22804,7 @@ p8594
 g8
 I00
 sg9
-S'<Sent id="4.11"'
+S'Jan'
 p8596
 ssS'4.5'
 p8597
@@ -22812,7 +22812,7 @@ p8597
 g8
 I00
 sg9
-S'<Sent id="4.5"'
+S'&gt; Was anyone on the call?'
 p8599
 ssS'4.4'
 p8600
@@ -22828,7 +22828,7 @@ p8603
 g8
 I01
 sg9
-S'<Sent id="6.2"'
+S'- if we are successful we can decide how to do it and we do not need to go through papers submission etc ....'
 p8605
 ssS'5.4'
 p8606
@@ -22836,7 +22836,7 @@ p8606
 g8
 I01
 sg9
-S'<Sent id="5.4"'
+S'Everyone thought it was a good opportunity to pull together the various efforts.'
 p8608
 ssS'4.7'
 p8609
@@ -22860,7 +22860,7 @@ p8615
 g8
 I00
 sg9
-S'<Sent id="4.14"'
+S'UI Design Specialist'
 p8617
 ssS'5.10'
 p8618
@@ -22876,7 +22876,7 @@ p8621
 g8
 I00
 sg9
-S'<Sent id="4.6"'
+S'&gt; chaals'
 p8623
 ssS'4.12'
 p8624
@@ -22884,7 +22884,7 @@ p8624
 g8
 I00
 sg9
-S'<Sent id="4.12"'
+S'/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\'
 p8626
 ssS'4.10'
 p8627
@@ -22892,7 +22892,7 @@ p8627
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'Cheers,'
 p8629
 ssS'4.1'
 p8630
@@ -22916,7 +22916,7 @@ p8636
 g8
 I00
 sg9
-S'<Sent id="5.5"'
+S'Jutta'
 p8638
 ssS'4.3'
 p8639
@@ -22924,7 +22924,7 @@ p8639
 g8
 I00
 sg9
-S'<Sent id="4.3"'
+S'- Jan'
 p8641
 ssS'4.2'
 p8642
@@ -22932,7 +22932,7 @@ p8642
 g8
 I00
 sg9
-S'<Sent id="4.2"'
+S'I slept in after flying in late.'
 p8644
 ssS'4.17'
 p8645
@@ -22940,7 +22940,7 @@ p8645
 g8
 I00
 sg9
-S'<Sent id="4.17"'
+S'jan.richards@utoronto.ca'
 p8647
 ssS'5.1'
 p8648
@@ -22956,7 +22956,7 @@ p8651
 g8
 I00
 sg9
-S'<Sent id="4.13"'
+S'Jan Richards'
 p8653
 ssS'1.23'
 p8654
@@ -22964,7 +22964,7 @@ p8654
 g8
 I00
 sg9
-S'<Sent id="1.23"'
+S'&gt; On behalf of the Sun Microsystems Accessibility team,'
 p8656
 ssS'1.22'
 p8657
@@ -22972,7 +22972,7 @@ p8657
 g8
 I00
 sg9
-S'<Sent id="1.22"'
+S'&gt; http://ui.openoffice.org/accessibility/proposal-impress.html'
 p8659
 ssS'1.21'
 p8660
@@ -22980,7 +22980,7 @@ p8660
 g8
 I00
 sg9
-S'<Sent id="1.21"'
+S'&gt; To view the proposal for presentation document accessibility, please see:'
 p8662
 ssS'1.20'
 p8663
@@ -22988,7 +22988,7 @@ p8663
 g8
 I00
 sg9
-S'<Sent id="1.20"'
+S'&gt; http://ui.openoffice.org/accessibility/unoapi.html'
 p8665
 ssS'1.27'
 p8666
@@ -23004,7 +23004,7 @@ p8669
 g8
 I00
 sg9
-S'<Sent id="1.26"'
+S'&gt; access@sun.com'
 p8671
 ssS'1.25'
 p8672
@@ -23012,7 +23012,7 @@ p8672
 g8
 I00
 sg9
-S'<Sent id="1.25"'
+S'&gt; Sun Microsystems'
 p8674
 ssS'1.24'
 p8675
@@ -23020,7 +23020,7 @@ p8675
 g8
 I00
 sg9
-S'<Sent id="1.24"'
+S'&gt; Peter Korn'
 p8677
 ssssS'015-2625401'
 p8678
@@ -23033,7 +23033,7 @@ p8681
 g8
 I01
 sg9
-S'<Sent id="1.4"'
+S'http://lists.w3.org/Archives/Public/www-rdf-interest/2003Apr/0252.html'
 p8683
 ssS'1.5'
 p8684
@@ -23049,7 +23049,7 @@ p8687
 g8
 I01
 sg9
-S'<Sent id="1.6"'
+S"Please do add yourselves if you've not already there (I just did a few as examples)."
 p8689
 ssS'1.7'
 p8690
@@ -23057,7 +23057,7 @@ p8690
 g8
 I01
 sg9
-S'<Sent id="1.7"'
+S'There are some SVG demos, developed from ones by Jim Ley, displaying the information we have already, which I constructed as examples:'
 p8692
 ssS'4.15'
 p8693
@@ -23073,7 +23073,7 @@ p8696
 g8
 I00
 sg9
-S'<Sent id="1.1"'
+S'hi all,'
 p8698
 ssS'1.2'
 p8699
@@ -23089,7 +23089,7 @@ p8702
 g8
 I01
 sg9
-S'<Sent id="1.3"'
+S'I wrote to the www-rdf-interest list asking for data:'
 p8704
 ssS'3.10'
 p8705
@@ -23097,7 +23097,7 @@ p8705
 g8
 I01
 sg9
-S'<Sent id="3.10"'
+S'One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map...'
 p8707
 ssS'3.11'
 p8708
@@ -23105,7 +23105,7 @@ p8708
 g8
 I01
 sg9
-S'<Sent id="3.11"'
+S'I prefer the map to the globe, fwiw.'
 p8710
 ssS'3.12'
 p8711
@@ -23121,7 +23121,7 @@ p8714
 g8
 I01
 sg9
-S'<Sent id="1.8"'
+S'http://www.w3.org/2001/sw/Europe/200303/geo/intro.html#demos'
 p8716
 ssS'1.9'
 p8717
@@ -23137,7 +23137,7 @@ p8720
 g8
 I00
 sg9
-S'<Sent id="5.2"'
+S"&gt; What don't you like about them in particular?"
 p8722
 ssS'3.6'
 p8723
@@ -23169,7 +23169,7 @@ p8732
 g8
 I00
 sg9
-S'<Sent id="2.8"'
+S'Cheers,'
 p8734
 ssS'3.2'
 p8735
@@ -23177,7 +23177,7 @@ p8735
 g8
 I00
 sg9
-S'<Sent id="3.2"'
+S'&gt; From: Libby Miller [mailto:Libby.Miller@bristol.ac.uk]'
 p8737
 ssS'3.3'
 p8738
@@ -23185,7 +23185,7 @@ p8738
 g8
 I00
 sg9
-S'<Sent id="3.3"'
+S'&gt;&gt; Do people have a preference for one style over the other?'
 p8740
 ssS'6.1'
 p8741
@@ -23201,7 +23201,7 @@ p8744
 g8
 I00
 sg9
-S'<Sent id="3.1"'
+S'* Dickinson, Ian J &amp;lt;Ian.Dickinson@hp.com&amp;gt; [2003-04-25 12:12+0100]'
 p8746
 ssS'2.3'
 p8747
@@ -23209,7 +23209,7 @@ p8747
 g8
 I00
 sg9
-S'<Sent id="2.3"'
+S'&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003.'
 p8749
 ssS'2.2'
 p8750
@@ -23225,7 +23225,7 @@ p8753
 g8
 I00
 sg9
-S'<Sent id="2.1"'
+S'&gt; Do people have a preference for one style over the other?'
 p8755
 ssS'2.7'
 p8756
@@ -23233,7 +23233,7 @@ p8756
 g8
 I01
 sg9
-S'<Sent id="2.7"'
+S'Of course, you may not consider that a helpful suggestion given the short timescale :-)'
 p8758
 ssS'2.6'
 p8759
@@ -23265,7 +23265,7 @@ p8768
 g8
 I01
 sg9
-S'<Sent id="1.16"'
+S'Do people have a preference for one style over the other?'
 p8770
 ssS'1.17'
 p8771
@@ -23281,7 +23281,7 @@ p8774
 g8
 I01
 sg9
-S'<Sent id="1.14"'
+S'and http://www.cadmium.co.uk/thumbs/ds/maps%20and%20globes/t_11407324.jpg.jpg'
 p8776
 ssS'1.15'
 p8777
@@ -23289,7 +23289,7 @@ p8777
 g8
 I01
 sg9
-S'<Sent id="1.15"'
+S'which would be technically simpler to do, but shows Europe in isolation (I do like the colour scheme though).'
 p8779
 ssS'1.12'
 p8780
@@ -23297,7 +23297,7 @@ p8780
 g8
 I01
 sg9
-S'<Sent id="1.12"'
+S'http://www.cadmium.co.uk/thumbs/brand%20x/maps%20and%20globes/t_bxp_c31027.jpg.jpg'
 p8782
 ssS'1.13'
 p8783
@@ -23305,7 +23305,7 @@ p8783
 g8
 I01
 sg9
-S'<Sent id="1.13"'
+S'which has the advantage of showing Europe as part of the world (we could get rid of the arm of the globe that is showing, and alter the colours);'
 p8785
 ssS'1.10'
 p8786
@@ -23321,7 +23321,7 @@ p8789
 g8
 I01
 sg9
-S'<Sent id="1.11"'
+S"At ILRT, Caroline Meek, Dan and I have had discussions with a designer, and he has pointed us at some examples, and we've narrowed it down to two that we rather like:"
 p8791
 ssS'5.8'
 p8792
@@ -23329,7 +23329,7 @@ p8792
 g8
 I00
 sg9
-S'<Sent id="5.8"'
+S'Ian'
 p8794
 ssS'5.9'
 p8795
@@ -23337,7 +23337,7 @@ p8795
 g8
 I00
 sg9
-S'<Sent id="5.9"'
+S'** qv "[the judge] ruled that the guilty party was \'life itself\' for failing'
 p8797
 ssS'4.16'
 p8798
@@ -23345,7 +23345,7 @@ p8798
 g8
 I00
 sg9
-S'<Sent id="4.16"'
+S'&gt; Of course, you may not consider that a helpful suggestion given the short timescale :-)'
 p8800
 ssS'4.9'
 p8801
@@ -23353,7 +23353,7 @@ p8801
 g8
 I00
 sg9
-S'<Sent id="4.9"'
+S'&gt; From: Libby Miller [mailto:Libby.Miller@bristol.ac.uk]'
 p8803
 ssS'4.8'
 p8804
@@ -23361,7 +23361,7 @@ p8804
 g8
 I00
 sg9
-S'<Sent id="4.8"'
+S'On Fri, 25 Apr 2003, Dickinson, Ian J wrote:'
 p8806
 ssS'1.18'
 p8807
@@ -23369,7 +23369,7 @@ p8807
 g8
 I01
 sg9
-S'<Sent id="1.18"'
+S'We need to specify the map as soon as possible in order to get postcards printed for www2003.'
 p8809
 ssS'1.19'
 p8810
@@ -23377,7 +23377,7 @@ p8810
 g8
 I00
 sg9
-S'<Sent id="1.19"'
+S'thanks,'
 p8812
 ssS'5.6'
 p8813
@@ -23385,7 +23385,7 @@ p8813
 g8
 I01
 sg9
-S'<Sent id="5.6"'
+S'I guess you need the cartographical equivalent of an ellipsis, whatever that might be!'
 p8815
 ssS'6.9'
 p8816
@@ -23401,7 +23401,7 @@ p8819
 g8
 I00
 sg9
-S'<Sent id="6.5"'
+S'On Fri, 25 Apr 2003, Dickinson, Ian J wrote:'
 p8821
 ssS'3.8'
 p8822
@@ -23417,7 +23417,7 @@ p8825
 g8
 I00
 sg9
-S'<Sent id="5.7"'
+S'Cheers,'
 p8827
 ssS'4.18'
 p8828
@@ -23441,7 +23441,7 @@ p8834
 g8
 I00
 sg9
-S'<Sent id="6.4"'
+S'Libby'
 p8836
 ssS'4.11'
 p8837
@@ -23457,7 +23457,7 @@ p8840
 g8
 I00
 sg9
-S'<Sent id="3.9"'
+S'&gt; Of course, you may not consider that a helpful suggestion given the short timescale :-)'
 p8842
 ssS'4.5'
 p8843
@@ -23465,7 +23465,7 @@ p8843
 g8
 I01
 sg9
-S'<Sent id="4.5"'
+S"What don't you like about them in particular?"
 p8845
 ssS'6.10'
 p8846
@@ -23481,7 +23481,7 @@ p8849
 g8
 I01
 sg9
-S'<Sent id="4.4"'
+S"- I'll pass your comments along to him, see if he has anything like that."
 p8851
 ssS'6.13'
 p8852
@@ -23489,7 +23489,7 @@ p8852
 g8
 I00
 sg9
-S'<Sent id="6.13"'
+S'&gt; Ian'
 p8854
 ssS'6.12'
 p8855
@@ -23497,7 +23497,7 @@ p8855
 g8
 I00
 sg9
-S'<Sent id="6.12"'
+S'&gt; Cheers,'
 p8857
 ssS'6.11'
 p8858
@@ -23505,7 +23505,7 @@ p8858
 g8
 I00
 sg9
-S'<Sent id="6.11"'
+S'&gt; I guess you need the cartographical equivalent of an ellipsis, whatever that might be!'
 p8860
 ssS'5.4'
 p8861
@@ -23521,7 +23521,7 @@ p8864
 g8
 I00
 sg9
-S'<Sent id="4.7"'
+S'Libby'
 p8866
 ssS'6.3'
 p8867
@@ -23529,7 +23529,7 @@ p8867
 g8
 I01
 sg9
-S'<Sent id="6.3"'
+S'For (b) though, that might work in our favour, as we can put a logo and/or a slogan there.'
 p8869
 ssS'4.14'
 p8870
@@ -23553,7 +23553,7 @@ p8876
 g8
 I00
 sg9
-S'<Sent id="4.6"'
+S'thanks for the feedback'
 p8878
 ssS'4.12'
 p8879
@@ -23561,7 +23561,7 @@ p8879
 g8
 I00
 sg9
-S'<Sent id="4.12"'
+S'&gt;&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003.'
 p8881
 ssS'4.10'
 p8882
@@ -23569,7 +23569,7 @@ p8882
 g8
 I00
 sg9
-S'<Sent id="4.10"'
+S'&gt;&gt; Do people have a preference for one style over the other?'
 p8884
 ssS'4.1'
 p8885
@@ -23609,7 +23609,7 @@ p8897
 g8
 I00
 sg9
-S'<Sent id="6.7"'
+S"&gt;&gt; What don't you like about them in particular?"
 p8899
 ssS'4.3'
 p8900
@@ -23625,7 +23625,7 @@ p8903
 g8
 I00
 sg9
-S'<Sent id="6.6"'
+S'&gt; Hi Libby,'
 p8905
 ssS'4.2'
 p8906
@@ -23649,7 +23649,7 @@ p8912
 g8
 I00
 sg9
-S'<Sent id="4.17"'
+S'&gt; Cheers,'
 p8914
 ssS'5.1'
 p8915
@@ -23657,7 +23657,7 @@ p8915
 g8
 I00
 sg9
-S'<Sent id="5.1"'
+S'Hi Libby,'
 p8917
 ssS'3.5'
 p8918
@@ -23665,7 +23665,7 @@ p8918
 g8
 I00
 sg9
-S'<Sent id="3.5"'
+S'&gt;&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003.'
 p8920
 ssS'4.13'
 p8921
@@ -23689,7 +23689,7 @@ p8927
 g8
 I01
 sg9
-S'<Sent id="1.21"'
+S"p.s. Here's a nice similar idea:"
 p8929
 ssS'1.20'
 p8930
@@ -23697,7 +23697,7 @@ p8930
 g8
 I00
 sg9
-S'<Sent id="1.20"'
+S'Libby'
 p8932
 ssS'6.2'
 p8933
